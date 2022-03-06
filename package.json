@@ -1,0 +1,19 @@
+{
+  "name": "cps-design-system",
+  "version": "0.0.1",
+  "description": "Documentação do Design System Corporativo do CPS",
+  "main": "index.js",
+  "authors": {
+    "name": "Erick Eduardo Petrucelli",
+    "email": "erick.petrucelli@cps.sp.gov.br"
+  },
+  "repository": "https://github.com/cpsrepositorio/cps-design-system/cps-design-system",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
