@@ -2,6 +2,8 @@ module.exports = {
   title: 'CPS Design System',
   description: 'Design System Corporativo para utilização em sistemas internos do Centro Paula Souza, composto pelo Guia Visual e pela documenta visual de Componentes.',
 
+  base: '/cps-design-system/',
+
   head: [
     ['meta', { name: 'theme-color', content: '#b20000' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
