@@ -16,26 +16,35 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Guia Visual',
+        link: '/guia-visual/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Componentes',
+        link: '/componentes/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Manual de Identidade Visual',
+        link: 'https://www.cps.sp.gov.br/wp-content/uploads/sites/1/2020/08/manual_centro_paula_souza_gestao2019_atualizado.pdf'
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/guia-visual/': [
         {
-          title: 'Guide',
+          title: 'Guia Visual',
           collapsable: false,
           children: [
             '',
             'using-vue',
+          ]
+        }
+      ],
+      '/componentes/': [
+        {
+          title: 'Componentes',
+          collapsable: false,
+          children: [
+            '',
           ]
         }
       ],

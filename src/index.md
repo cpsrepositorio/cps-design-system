@@ -3,8 +3,8 @@ home: true
 heroText: Design System
 heroImage: /logo-cps.svg
 tagline: Design System Corporativo para utilização em sistemas internos do Centro Paula Souza
-actionText: Introdução
-actionLink: /guia/
+actionText: Introdução ➤
+actionLink: /guia-visual/
 features:
 - title: Natural aos usuários
   details: CPS Design System foi construído com fortes inspirações no Fluent Design System da Microsoft e, embora estendendo e definindo suas próprias soluções para alguns cenários, foi concebido para ser percebido como algo propositalmente familiar.
