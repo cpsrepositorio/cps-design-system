@@ -9,7 +9,7 @@
   },
   "repository": "https://github.com/cpsrepositorio/cps-design-system/cps-design-system",
   "scripts": {
-    "dev": "vuepress dev src",
+    "dev": "nodemon --ext js,md,vue --watch . --exec yarn vuepress dev src",
     "build": "vuepress build src"
   },
   "license": "MIT",
@@ -17,6 +17,7 @@
     "@vuepress/plugin-active-header-links": "^1.9.7",
     "@vuepress/plugin-back-to-top": "^1.9.7",
     "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "nodemon": "^2.0.15",
     "vuepress": "^1.9.7"
   }
 }
