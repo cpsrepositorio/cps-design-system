@@ -30,6 +30,10 @@ module.exports = {
       {
         text: 'Manual de Identidade Visual',
         link: 'https://www.cps.sp.gov.br/wp-content/uploads/sites/1/2020/08/manual_centro_paula_souza_gestao2019_atualizado.pdf'
+      },
+      {
+        text: 'Guia de Identidade para Sites',
+        link: 'https://www.cps.sp.gov.br/wp-content/uploads/sites/1/2021/01/guia-digital-sites-cps-2021.pdf'
       }
     ],
     sidebar: {
@@ -39,7 +43,12 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'camadas-e-materiais',
+            'elevacao',
+            'tipografia',
+            'cores',
+            'espacamentos',
+            'icones',
           ]
         }
       ],
@@ -49,6 +58,48 @@ module.exports = {
           collapsable: false,
           children: [
             '',
+            'accordion',
+            'avatar',
+            'badge',
+            'bar-chart',
+            'button-group',
+            'button',
+            'calendar',
+            'callout',
+            'card',
+            'check-field',
+            'chip',
+            'color-field',
+            'data-table',
+            'date-field',
+            'dialog',
+            'dropdown-button',
+            'dropdown-field',
+            'floating-panel',
+            'gauge',
+            'grid',
+            'hyperlink',
+            'line-chart',
+            'list-view',
+            'menu-flyout',
+            'multi-select-field',
+            'number-field',
+            'pagination',
+            'pie-chart',
+            'progress-indicator',
+            'ratting-field',
+            'separator',
+            'side-navigation',
+            'skeleton-indicator',
+            'slider-field',
+            'stacked-chart',
+            'stepper',
+            'tab-bar',
+            'text-field',
+            'toast-notification',
+            'toggle-button',
+            'top-navigation',
+            'tree-view',
           ]
         }
       ]

@@ -1,15 +1,3 @@
----
-sidebar: auto
----
+# Componentes
 
-# Config
-
-## foo
-
-- Type: `string`
-- Default: `/`
-
-## bar
-
-- Type: `string`
-- Default: `/`
+> TODO
