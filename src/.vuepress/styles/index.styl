@@ -6,9 +6,9 @@ body
   font-weight: 400
   line-height: 1rem
 
-.navbar
+.navbar, .sidebar
   backdrop-filter: blur(8px)
-  background-color: rgba(211, 211, 211, 0.44) !important
+  background-color: rgba(252, 252, 252, 0.85) !important
   background-image: url("~@source/assets/images/acrylic-noise.png") !important
 
   .logo
@@ -20,11 +20,6 @@ body
 
   .links
     background: none !important
-
-.sidebar
-  backdrop-filter: blur(24px)
-  background-blend-mode: exclusion
-  background-color: rgba(243, 243, 243, 0.5) !important
 
 .home
   .features
@@ -41,8 +36,15 @@ body
 
 .medium-zoom--opened
   .medium-zoom-overlay
-    backdrop-filter: blur(4px)
-    background-color: rgba(0, 0, 0, 0.3) !important
+    backdrop-filter: blur(6px)
+    background-color: rgba(0, 0, 0, 0.4) !important
 
 .medium-zoom-image.medium-zoom-image--opened
   filter: drop-shadow(0 2px 21px rgba(0, 0, 0, 0.1474)) drop-shadow(0 32px 64px rgba(0, 0, 0, 0.1876))
+
+.color-dot
+  display: inline-block
+  border-radius: 12px
+  width: 12px
+  height: 12px
+  margin-right: 4px
