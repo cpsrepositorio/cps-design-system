@@ -18,7 +18,6 @@ module.exports = {
     smoothScroll: true,
     editLinks: false,
     repo: 'https://github.com/cpsrepositorio/cps-design-system/cps-design-system',
-    lastUpdated: 'Última atualização',
     searchPlaceholder: 'O que você procura?',
     nav: [
       {
@@ -109,6 +108,8 @@ module.exports = {
   },
 
   plugins: [
+    /*
+    // TODO: Temporary disabled since timestamps are not being properly updated.
     [
       '@vuepress/last-updated',
       {
@@ -127,6 +128,7 @@ module.exports = {
         }
       }
     ],
+    */
     '@vuepress/active-header-links',
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom'
