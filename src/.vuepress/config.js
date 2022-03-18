@@ -17,7 +17,7 @@ module.exports = {
     logo: '/images/logo-cps-ds.svg?v=20220903',
     smoothScroll: true,
     editLinks: false,
-    repo: 'https://github.com/cpsrepositorio/cps-design-system/cps-design-system',
+    repo: 'https://github.com/cpsrepositorio/cps-design-system/',
     searchPlaceholder: 'O que você procura?',
     nav: [
       {
