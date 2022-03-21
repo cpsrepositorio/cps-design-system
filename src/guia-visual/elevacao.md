@@ -8,7 +8,7 @@ Interfaces de usuário (sejam elas Web, _desktop_ ou _mobile_) residem em um amb
 
 O **CPS Design System** utiliza-se de seis níveis de elevação partindo da mais sutil à mais evidente, além de um nível base (de total ausência de elevação), usado para designar elementos cuja elevação não está sofrendo qualquer tipo de interferência.
 
-A figura abaixo ilustra tais níveis, tanto em esquema de [Cores](./cores.md) claro quanto escuro.
+A figura abaixo ilustra tais níveis, em ambos os [Modos de Cor](./cores.md#modos-de-cor) claro e escuro.
 
 ![Níveis de Elevação](~@source/assets/images/elevation-shadows.png)
 

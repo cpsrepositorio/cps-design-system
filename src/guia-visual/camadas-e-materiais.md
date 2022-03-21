@@ -32,7 +32,7 @@ O material translúcido se trata de cores com a camada de transparência (_alpha
 
 Por exemplo, a camada de conteúdo supracitada costuma ser constituída de branco com 50% de opacidade, o que garante uma mesclagem suave a qualquer tonalidade e intensidade de brilho utilizada na camada base.
 
-As bordas dos elementos também utilizam cores translúcidas, para oferecer a mesclagem ideal com qualquer cor de fundo. Por exemplo, a borda padrão da maioria dos elementos no esquema de cores claro é um preto com exatamente `5,78%` de opacidade. Este valor pode parecer arbitrário e até um pouco estranho, mas quando mesclado sobre um fundo branco gera o efeito visual correspondente a um cinza claro (`#eaeaea`). Porém, a grande vantagem em não ser exatamente cinza é que a borda pode se ajustar dinamicamente a mudanças na cor de fundo, mantendo a mesma intensidade de brilho (distância entre a iluminação das duas cores), ao ser aplicada por cima de outras cores de fundo.
+As bordas dos elementos também utilizam cores translúcidas, para oferecer a mesclagem ideal com qualquer cor de fundo. Por exemplo, a borda padrão da maioria dos elementos em [Modo de Cor](./cores.md#modos-de-cor) claro é um preto com exatamente `5,78%` de opacidade. Este valor pode parecer arbitrário e até um pouco estranho, mas quando mesclado sobre um fundo branco gera o efeito visual correspondente a um cinza claro (`#eaeaea`). Porém, a grande vantagem em não ser exatamente cinza é que a borda pode se ajustar dinamicamente a mudanças na cor de fundo, mantendo a mesma intensidade de brilho (distância entre a iluminação das duas cores), ao ser aplicada por cima de outras cores de fundo.
 
 ::: details Exemplo de bordas opacas ou translúcidas
 Observe a caixa à esquerda, com borda opaca em cinza médio (`#b2b2b2`) aplicada sobre um elemento com cor de fundo marcante, e compare com a caixa à direita, com a mesma cor de fundo marcante, mas utilizando uma borda preta com `30%` de opacidade. A diferença é evidente sobre como a borda translúcida se combina à cor do elemento, enquanto a cor opaca simplesmente atrapalha e parece destoar do restante.
@@ -65,7 +65,7 @@ Por ser um efeito que chama a atenção, e por potencialmente dificultar a visua
 <br>
 <span class="color-dot" style="background: #fce100"></span> <b>Camada com transparência:</b> Cartões ajustados em um leve tom de cinza com `90%` de opacidade, otimizados para tirar proveito da camada acrílica anterior a eles.
 
-Destaca-se que o material acrílico é sensível à variação do esquema de cores, ou seja, possui variações especificamente pensadas tanto para modo claro quanto para modo escuro da interface.
+Destaca-se que o material acrílico é sensível à variação dos [Modos de Cor](./cores.md#modos-de-cor), ou seja, possui variações especificamente pensadas tanto para claro quanto para escuro.
 
 ![Exemplos de Material Acrílico em Modo Escuro](~@source/assets/images/materials-acrylic-dark.png)
 
@@ -81,4 +81,4 @@ Comumente, o esfumaçado é utilizado para sinalizar bloqueio da interface, abai
 
 ![Exemplos de Material Esfumaçado](~@source/assets/images/materials-smoke.png)
 
-O esfumaçamento não sofre interferência do esquema de cores, isto é, sempre translúcida em preto.
+O esfumaçamento não sofre interferência dos [Modos de Cor](./cores.md#modos-de-cor), isto é, sempre translúcida em preto.
