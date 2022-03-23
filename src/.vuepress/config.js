@@ -45,10 +45,10 @@ module.exports = {
           children: [
             '',
             'camadas-e-materiais',
+            'dimensoes-e-espacamentos',
             'elevacao',
             'tipografia',
             'cores',
-            'espacamentos',
             'icones',
           ]
         }

@@ -12,7 +12,7 @@ Assim, um _design system_ pode ser definido como um conjunto completo de padrõe
 
 Se você é desenvolvedor, sabemos que está querendo sair correndo para ver a documentação visual dos componentes, mas esta não é a maneira ideal de iniciar com um _design system_.
 
-Passe primeiro pelo **Guia Visual**, lendo [Camadas e Materiais](./camadas-e-materiais.md), [Elevação](./elevacao.md), [Tipografia](./tipografia.md), [Cores](./cores.md), [Espaçamentos](./espacamentos.md) e [Ícones](./camadas-e-materiais.md).
+Passe primeiro pelo **Guia Visual**, lendo [Camadas e Materiais](./camadas-e-materiais.md), [Dimensões e Espaçamentos](./dimensoes-e-espacamentos.md), [Elevação](./elevacao.md), [Tipografia](./tipografia.md), [Cores](./cores.md) e [Ícones](./camadas-e-materiais.md).
 
 Depois, vá à imersão com a documentação visual dos [**Componentes**](../componentes/).
 
