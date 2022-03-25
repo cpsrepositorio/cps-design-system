@@ -131,6 +131,11 @@ module.exports = {
     */
     '@vuepress/active-header-links',
     '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom'
+    [
+      '@vuepress/plugin-medium-zoom',
+      {
+        selector: '.theme-default-content :not(a) > img:not(.no-zoom)'
+      }
+    ]
   ]
 }
