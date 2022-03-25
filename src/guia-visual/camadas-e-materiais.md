@@ -47,7 +47,7 @@ Outro elementos do **CPS Design System** também se utilizam de variações de t
 
 ![Exemplos de Material Transparente](~@source/assets/images/materials-transparent.png)
 
-# Acrílico
+## Acrílico
 
 Acrílico é um material semitransparente que simula o efeito de vidro fosco, através de uma camada acinzentada de alta opacidade `44%`, uma sutil repetição de textura em padrão ruído (_noise_) a apenas `2%` de opacidade e um forte filtro de embaçamento de fundo (_backdrop blur_).
 
@@ -69,7 +69,7 @@ Destaca-se que o material acrílico é sensível à variação dos [Modos de Cor
 
 ![Exemplos de Material Acrílico em Modo Escuro](~@source/assets/images/materials-acrylic-dark.png)
 
-# Esfumaçado
+## Esfumaçado
 
 O esfumaçado ajuda a enfatizar uma superfície de interface do usuário extremamente importante, ao esmaecer as superfícies abaixo para que elas recedem em segundo plano, através de um preto com `40%` de opacidade e um filtro de embaçamento de fundo (_backdrop blur_), com intensidade um pouco menor do que a utilizada no material acrílico.
 
