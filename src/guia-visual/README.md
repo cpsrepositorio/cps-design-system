@@ -22,29 +22,29 @@ Passe primeiro pelo **Guia Visual**, lendo [Camadas e Materiais](./camadas-e-mat
 
 Design Systems não são novidade em grandes corporações, e também tem se tornado mais e mais frequentes em corporações menores. Quando bem implementados, podem fornecer muitos benefícios para as equipes.
 
-### _Design_ e desenvolvimento de UI pode ser realizado rapidamente e em escala
+#### _Design_ e desenvolvimento de UI pode ser realizado rapidamente e em escala
 
 O principal benefício é a capacidade de replicar designs rapidamente, utilizando componentes e elementos de UI pré-fabricados. As equipes podem continuar a usar os mesmos elementos repetidamente, reduzindo a necessidade de reinventar a roda e, assim, diminuindo-se o risco de inconsistências não intencionais.
 
-### Alivia a pressão sobre _designers_ para se concentrar em problemas mais complexos
+#### Alivia a pressão sobre _designers_ para se concentrar em problemas mais complexos
 
 Como os elementos de UI mais simples já definidos e reutilizáveis, os profissionais de UI/UX podem então se concentrar menos em ajustar a aparência visual e mais em problemas mais complexos (como priorização de informações, otimização de fluxo de trabalho e gerenciamento de jornada).
 
 Embora essa recompensa possa parecer pequena quando você cria apenas um pequeno número de telas, torna-se substancial quando se trata de coordenar esforços em dezenas de equipes e milhares de telas.
 
-### Cria uma linguagem unificada entre equipes multifuncionais
+#### Cria uma linguagem unificada entre equipes multifuncionais
 
 Quando as responsabilidades pela UI/UX dos sistemas mudam, ou quando equipes se dispersam geograficamente, uma linguagem unificada reduz o desperdício de _design_ ou tempo de desenvolvimento devido a falhas de comunicação.
 
 Por exemplo, a funcionalidade ou a aparência de um menu suspenso não seria debatida, pois esse termo é reservado para um elemento especificamente definido no _design system_.
 
-### Cria consistência visual entre produtos distintos (e potencialmente isolados)
+#### Cria consistência visual entre produtos distintos (e potencialmente isolados)
 
 Particularmente quando as equipes trabalham em produtos "independentes", onde cada produto opera sem grande ou nenhuma interferência dos outros, a ausência de um _design system_ em toda a organização pode levar a uma aparência visual inconsistente e experiências que parecem fragmentadas ou não relacionadas à marca.
 
 Os sistemas de _design_ fornecem uma única fonte da verdade sobre o estilo visual das interfaces e dos componentes, com padrões e estilos que unificam experiências desconexas para que sejam visualmente coesas e pareçam fazer parte do mesmo ecossistema. Além da evidente imagem mais "profissional" que isso passa aos usuários (principalmente àqueles que utilizam mais de um produto da instituição), como um bônus, qualquer grande redesenho ou _rebrand_ da marca pode ser gerenciado em escala por meio do _design system_.
 
-### Pode servir como uma ferramenta educacional a desenvolvedores e até a outros _designers_
+#### Pode servir como uma ferramenta educacional a desenvolvedores e até a outros _designers_
 
 Diretrizes de uso e guias de estilo explicitamente escritos ajudam a integrar colaboradores individuais que são novos no _design_ de UI (em geral ou na instituição) e servem como um lembrete para o restante dos colaboradores.
 
