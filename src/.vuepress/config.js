@@ -19,6 +19,7 @@ module.exports = {
     editLinks: false,
     repo: 'https://github.com/cpsrepositorio/cps-design-system/',
     searchPlaceholder: 'O que você procura?',
+    sidebarDepth: 2,
     nav: [
       {
         text: 'Guia Visual',
