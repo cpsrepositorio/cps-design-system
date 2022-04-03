@@ -64,7 +64,7 @@ module.exports = {
             'avatar',
             'badge',
             'bar-chart',
-            'button-group',
+            'split-button',
             'button',
             'calendar',
             'callout',
