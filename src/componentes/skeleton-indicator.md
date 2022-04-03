@@ -12,6 +12,8 @@ Este componente pode ser utilizado conforme as variações descritas a seguir.
 
 A variação em linha é relevante para denotar linhas de texto que potencialmente aparecerão no lugar do esqueleto após o carregamento concluído. Desta forma, esta variação dificilmente é utilizada apenas uma vez, mas sim algumas vezes seguidas, uma abaixo da outra, para passar a sensação de linhas de texto em um parágrafo.
 
+A aparência desta variação em modo claro:
+
 ![SkeletonIndicator - Modo Claro - Linha](~@source/assets/images/component-skeletonindicator-light-line.png)
 
 A aparência desta variação em modo escuro:
