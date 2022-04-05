@@ -52,7 +52,7 @@ Para que este componente seja utilizado da melhor maneira possível, observe as 
 
 ### Acessibilidade
 
-Por serem meramente visuais, indicadores de progresso devem possuir texto alternativo a ser lido, usando-se alguma [técnica de acessibilidade para conteúdo invisível](https://webaim.org/techniques/css/invisiblecontent/) que só pode ser acessado por leitores de tela.
+Por serem meramente visuais, indicadores de progresso devem possuir texto alternativo, usando-se alguma [técnica de acessibilidade para conteúdo invisível](https://webaim.org/techniques/css/invisiblecontent/) que só poderá ser acessado por leitores de tela.
 
 No caso de barra de progresso de duração indeterminada, basta utilizar um texto que denote o carregamento, por exemplo: `"Carregando..."`. Já barra de progresso de duração específica deve claramente informar a posição operação, por exemplo: `"Progresso de 25% de carregamento..."`.
 
