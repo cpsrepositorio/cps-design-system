@@ -74,8 +74,12 @@ Para que este componente seja utilizado da melhor maneira possível, observe as 
 
 ### Layout
 
-> TODO
+_Badges_ não devem ser redimensionados verticalmente, mantendo dimensão equivalente a `0.25rem` em sua versão mínima, e equivalente a `0.875rem` em sua versão padrão.
+
+_Badges_ não devem ser redimensionados horizontalmente de forma bruta, ou seja, apenas podem se expandir naturalmente caso seja necessário por causa do conteúdo interno, mas nunca "esticados" propositalmente.
 
 ### Acessibilidade
 
-> TODO
+Por serem meramente visuais em suas versões mínima ou com ícone, _badges_ nestas versões devem possuir texto alternativo, usando-se alguma [técnica de acessibilidade para conteúdo invisível](https://webaim.org/techniques/css/invisiblecontent/) que só poderá ser acessado por leitores de tela.
+
+A versão numérica não precisa de tal preocupação, pois os números já são elementos de acessibilidade acessíveis por leitores de tela.
