@@ -1,6 +1,6 @@
 # ToggleButton
 
-Um botão de alternância é uma espécie de variação do [Button](./button.md) padrão, mas com comportamento tão específico que merece ser documentado à parte. Trata-se de um botão que pode ser selecionado e deselecionado pelo usuário.
+Um botão de alternância é uma espécie de variação do [Button](./button.md) comum, mas com comportamento tão específico que merece ser documentado à parte. Trata-se de um botão que pode ser selecionado e deselecionado pelo usuário.
 
 Muito comum em barras de tarefas, inclusive em variações apenas com ícone, ou com texto e ícone, é um tipo de usabilidade de conhecimento quase generalizado, por causa de _softwares_ como Word e Excel. Também é eventualmente utilizado em grupos, quando selecionar um dos botões do grupo automaticamente de-seleciona os outros, como um mecanismo de alternância de ações na interface.
 
