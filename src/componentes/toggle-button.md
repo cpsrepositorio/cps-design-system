@@ -6,7 +6,7 @@ Muito comum em barras de tarefas, inclusive em variações apenas com ícone, ou
 
 ## Variações
 
-Este componente não exige a documentação variações, apenas se adaptando ao modo de cor em uso. No mais, as mesmas possibilidades de um [Button](./button.md) comum também se aplicam, como o uso de ícone junto ao texto, ou o uso apenas de ícone.
+Este componente não exige a documentação de variações, apenas se adaptando ao modo de cor em uso. No mais, as mesmas possibilidades de um [Button](./button.md) comum também se aplicam, como o uso de ícone junto ao texto, ou o uso apenas de ícone.
 
 A aparência em modo claro:
 
