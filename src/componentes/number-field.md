@@ -26,7 +26,7 @@ Grande parte das considerações de _layout_ do [TextField](./text-field.md) com
 
 ### Acessibilidade
 
-Por ser um componente acionável pelo usuário, exige-se que todos os diferentes estados de interação sejam adequadamente abordados quando em uso: `:hover` para movimentação do _mouse_ sobre o componente, `:active` para o exato momento em que se encontra pressionado ou tocado (no caso de uma tela sensível ao toque), `:focus` para quando a tela está sendo navegada através de teclado (normalmente pela tecla <kbd>TAB</kbd>), e `:disabled` evidentemente para quando se encontra desabilitado e não pode ser acionado.
+Por ser um componente acionável pelo usuário, exige-se que todos os diferentes estados de interação sejam adequadamente abordados quando em uso: `:hover` para movimentação do _mouse_ sobre o componente, `:active` para o exato momento em que se encontra pressionado ou tocado (no caso de uma tela sensível ao toque), `:focus` para quando a tela está sendo navegada através de teclado (normalmente pela tecla <kbd>Tab</kbd>), e `:disabled` evidentemente para quando se encontra desabilitado e não pode ser acionado.
 
 Estendendo sobre a navegação por teclado, reforça-se que deve diferenciar a caixa de texto em si dos botões de incremento e decremento, ou seja, cada botão deve receber o estado `:focus` de teclado individualmente, para poder ser acionada pela tecla <kbd>Enter</kbd> também individualmente. Além disso, quando a caixa de texto está com foco de teclado, as teclas de setas <kbd>&uarr;</kbd> e <kbd>&darr;</kbd> devem acionar o comportamento dos botões de incrementar e decrementar, respectivamente.
 
