@@ -61,4 +61,4 @@ Quando cabeçalhos de _accordion_ são posicionados em grupo, duas usabilidades 
 
 ### Acessibilidade
 
-Cada cabeçalho de _accordion_ deve ser acessível por teclado, ou seja, deve respeitar `tabindex` e deve apresentar corretamente o indicador de foco conforme demonstrado no estado `:focus-visible`. A ação da tecla <kbd>ENTER</kbd> em um cabeçalho de _accordion_ com foco deve ser a mesma de clicar/tocar neste: Expandir ou contrair seu conteúdo, alternando de acordo com o estado atual.
+Cada cabeçalho de _accordion_ deve ser acessível por teclado, ou seja, deve respeitar `tabindex` e deve apresentar corretamente o indicador de foco conforme demonstrado no estado `:focus-visible`. A ação da tecla <kbd>Enter</kbd> em um cabeçalho de _accordion_ com foco deve ser a mesma de clicar/tocar neste: Expandir ou contrair seu conteúdo, alternando de acordo com o estado atual.
