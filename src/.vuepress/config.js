@@ -59,7 +59,6 @@ module.exports = {
           title: 'Componentes',
           collapsable: false,
           children: [
-            '',
             'accordion',
             'avatar',
             'badge',
