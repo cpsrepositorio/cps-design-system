@@ -1,4 +1,4 @@
-# RattingField
+# RatingField
 
 > TODO
 

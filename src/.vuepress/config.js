@@ -89,7 +89,7 @@ module.exports = {
             'pagination',
             'pie-chart',
             'progress-indicator',
-            'ratting-field',
+            'rating-field',
             'separator',
             'side-navigation',
             'skeleton-indicator',
