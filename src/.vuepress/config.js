@@ -94,7 +94,7 @@ module.exports = {
             'skeleton-indicator',
             'slider-field',
             { title: 'StackedChart' },
-            { title: 'Stepper' },
+            'stepper',
             'tab-bar',
             'text-field',
             { title: 'ToastNotification' },
