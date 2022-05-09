@@ -72,7 +72,7 @@ module.exports = {
             'chip',
             { title: 'ColorField' },
             { title: 'DataTable' },
-            { title: 'DateField' },
+            'date-field',
             'dialog',
             'dropdown-button',
             'dropdown-field',
