@@ -81,7 +81,7 @@ module.exports = {
             { title: 'Grid' },
             'hyperlink',
             { title: 'LineChart' },
-            { title: 'ListView' },
+            'list-view',
             'menu-flyout',
             { title: 'MultiSelectField' },
             'number-field',
