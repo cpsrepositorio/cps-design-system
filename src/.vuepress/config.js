@@ -78,7 +78,7 @@ module.exports = {
             'dropdown-field',
             'floating-panel',
             { title: 'Gauge' },
-            { title: 'Grid' },
+            { title: 'GridView' },
             'hyperlink',
             { title: 'LineChart' },
             'list-view',
