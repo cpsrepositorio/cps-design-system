@@ -56,7 +56,7 @@ Evite submenus de menus de contexto, pois eles podem ser difíceis de invocar ou
 
 ### Acessibilidade
 
-Caso o menu seja composto por uma lista de comandos com itens selecionáveis, é importante garantir que as teclas de setas <kbd>&uarr;</kbd> e <kbd>&darr;</kbd> alternem a seleção dos elementos anteriores e posteriores ao atual, respectivamente. 
+Caso o menu seja composto por uma lista de comandos com itens selecionáveis, é importante garantir que as teclas de setas <kbd>&uarr;</kbd> e <kbd>&darr;</kbd> alternem a seleção dos elementos anteriores e posteriores ao atual, respectivamente.
 
 Caso seja seleção simples, pressionar <kbd>Enter</kbd> com a lista suspensa aberta confirma a seleção, automaticamente fechando-a e colocando o item que estava marcado/focado como a nova opção selecionada.
 
