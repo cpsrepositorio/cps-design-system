@@ -34,7 +34,7 @@ A aparência desta variação em modo escuro:
 
 ### Alerta
 
-Um distintivo de alerta deve ser utilizado as informações à qual está atrelado precisam de atenção maior por parte do usuário, por exemplo, alguma ação realizada pode causar problemas.
+Um distintivo de alerta deve ser utilizado quando as informações à qual está atrelado precisam de atenção por parte do usuário, por exemplo, alguma ação realizada pode causar problemas.
 
 A aparência desta variação em modo claro:
 
