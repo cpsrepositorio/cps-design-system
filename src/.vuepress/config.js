@@ -97,7 +97,7 @@ module.exports = {
             'stepper',
             'tab-bar',
             'text-field',
-            { title: 'ToastNotification' },
+            'toast-notification',
             'toggle-button',
             { title: 'TopNavigation' },
             { title: 'TreeView' },
