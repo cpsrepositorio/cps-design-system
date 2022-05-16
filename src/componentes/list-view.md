@@ -70,4 +70,4 @@ Caso a visualização em lista seja composta por itens selecionáveis, é import
 
 Caso seja seleção simples, pressionar <kbd>Enter</kbd> confirma a seleção, automaticamente colocando o item que estava marcado/focado como o novo item exclusivamente selecionado.
 
-Caso seja seleção múltipla, pressionar <kbd>Enter</kbd> apenas seleciona ou de-seleciona o item marcado/focado, os outros itens em seus estados atuais.
+Caso seja seleção múltipla, pressionar <kbd>Enter</kbd> apenas seleciona ou de-seleciona o item marcado/focado, mantendo-se outros itens em seus estados atuais.
