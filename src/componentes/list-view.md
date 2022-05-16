@@ -4,7 +4,7 @@ Uma exibição em lista (_list view_) permite apresentar dados empilhados vertic
 
 A exibição em lista com empilhamento vertical funciona melhor para itens com texto como ponto focal, e/ou coleções que devem ser lidas de cima para baixo (ou seja, ordenadas alfabeticamente/incrementalmente/cronologicamente). Alguns casos de uso comuns para a exibição em lista inclui listas de mensagens e resultados de pesquisa.
 
-Teoricamente, uma apresentação em lista poderia ser utilizada com fluidez horizontal (ou seja, itens lado a lado), porém, para facilitar a identificação, este _design system_ optou por nomear tal situação como um componente distinto, o [GridView](./grid.md).
+Teoricamente, uma apresentação em lista poderia ser utilizada com fluidez horizontal (ou seja, itens lado a lado), porém, para facilitar a identificação, este _design system_ optou por nomear tal situação como um componente distinto, o [GridView](./grid-view.md).
 
 ## Variações
 
