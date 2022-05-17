@@ -83,7 +83,7 @@ module.exports = {
             { title: 'LineChart' },
             'list-view',
             'menu-flyout',
-            { title: 'MultiSelectField' },
+            'multi-select-field',
             'number-field',
             { title: 'Pagination' },
             { title: 'PieChart' },
