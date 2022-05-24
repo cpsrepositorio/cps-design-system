@@ -1,3 +1,6 @@
+html, body, #app, .theme-container
+  height: 100%
+
 body
   font-family: "Open Sans", "Segoe UI", Verdana, Sans-serif
   font-size: 1rem
@@ -5,10 +8,12 @@ body
   font-variant: normal
   font-weight: 400
   line-height: 1rem
+  background: linear-gradient(#fff 60px, #f3f3f3 60px)
+  background-attachment: fixed
 
 a
   &:hover
-    color: #76110F
+    color: #76110f
   &:active
     color: #930a09
   span
@@ -17,10 +22,32 @@ a
     width: 11px
     height: 11px
 
-.navbar, .sidebar
+.page
+  margin-top: 3.75rem
+  border-radius: 8px 0 0 0
+  background: #fff
+  padding-left: 0
+  margin-left: 18rem
+  filter: drop-shadow(0 2px 4px #0000001a)
+
+  @media (max-width: 959px)
+    padding-left: 0
+    margin-left: 14.76rem
+
+  @media (max-width: 719px)
+    padding-left: 0
+    margin-left: 0
+
+.navbar
   backdrop-filter: blur(8px)
-  background-color: rgba(252, 252, 252, 0.85) !important
+  background-color: #f3f3f3d9 !important
   background-image: url("~@source/assets/images/acrylic-noise.png") !important
+
+.sidebar
+  background-color: #f3f3f3
+
+.navbar, .sidebar
+  border: none
 
   .logo
     height: 2.625rem !important
@@ -38,9 +65,32 @@ a
       display: none
 
 .home
+  background: #f9f9f9
+  border-radius: 8px
+  filter: drop-shadow(0 2px 4px #0000000a)
+  margin-top: 3.75rem !important
+  padding-top: 1.75rem !important
+
+  .footer
+    padding: 1.75rem !important
+    margin-top: 1.75rem !important
+
   .features
     text-align: center
+    border: none !important
+    display: grid !important
+    grid-template-columns: repeat(auto-fit, minmax(min-content, 380px))
+    align-items: stretch !important
+    justify-content: center !important
+    gap: 2rem
 
+    .feature
+      background: #fff
+      border-radius: 8px
+      filter: drop-shadow(0 2px 4px #0000001a)
+      padding: 1.25rem 1.75rem
+      max-width: auto
+ 
   .hero img
     max-width: 260px !important
 
