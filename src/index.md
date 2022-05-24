@@ -3,7 +3,7 @@ home: true
 heroText: Design System
 heroImage: /images/logo-cps.svg?v=20220903
 tagline: Design System Corporativo para utilização em sistemas internos do Centro Paula Souza
-actionText: Introdução ➤
+actionText: Introdução
 actionLink: /guia-visual/
 features:
 - title: Natural aos usuários
