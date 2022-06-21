@@ -99,7 +99,7 @@ module.exports = {
             'text-field',
             'toast-notification',
             'toggle-button',
-            { title: 'TopNavigation' },
+            'top-navigation',
             { title: 'TreeView' },
           ]
         }
