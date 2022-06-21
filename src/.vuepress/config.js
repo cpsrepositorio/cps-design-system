@@ -70,7 +70,7 @@ module.exports = {
             'card',
             'check-field',
             'chip',
-            { title: 'ColorField' },
+            'color-field',
             { title: 'DataTable' },
             'date-field',
             'dialog',
