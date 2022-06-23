@@ -90,7 +90,7 @@ module.exports = {
             'progress-indicator',
             'rating-field',
             'separator',
-            { title: 'SideNavigation' },
+            'side-navigation',
             'skeleton-indicator',
             'slider-field',
             { title: 'StackedChart' },
