@@ -20,7 +20,7 @@ A aparência em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Grande parte das considerações de _layout_ do [TextField](./text-field.md) comum também se aplicam, com exceção do uso de máscara de formatação de valores, o que poderia gerar grande confusão sobre a funcionalidade dos botões de incremento e decremento. Ou seja, este componente só deve apresentar em seu valor números de `0` a `9`, sinal de número negativo (`-`) e casa de número decimal (`,`).
 

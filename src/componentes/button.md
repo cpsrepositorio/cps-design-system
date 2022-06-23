@@ -58,7 +58,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Botões não devem ser redimensionados verticalmente, sempre mantendo-se a medida vertical em `2rem`, com o conteúdo adequadamente centralizado verticalmente e horizontalmente.
 

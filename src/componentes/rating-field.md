@@ -36,7 +36,7 @@ A aparência deste componente em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Embora teoricamente plausível ter classificações com outras quantidades de estrelas/notas, uma enorme quantidade de interfaces no mundo utilizam este componente com cinco estrelas, o que o tornaria excessivamente estranho aos usuários ao ser apresentado de outra maneira.
 

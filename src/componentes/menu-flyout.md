@@ -46,7 +46,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Quando o menu é baseado em listas de comandos, sugere-se que estes sejam divididos em grupos conforme a temática. Isso ajuda os usuários a se lembrarem dos locais em que os comandos ficam ou encontrarem comandos menos usados, ​​com base na proximidade de outros.
 

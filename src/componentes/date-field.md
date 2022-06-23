@@ -36,7 +36,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Use um campo seletor de data, evidentemente, quando o usuário precisa preencher uma data sem tomar muito espaço da interface para tal, visto que em estado de repouso este componente ocupa o mesmo espaço que uma caixa de texto comum. Quando espaço não for um problema, uma alternativa é contar com o calendário diretamente na interface, através do componente [Calendar](./calendar.md) apresentado continuamente, sem o uso do campo seletor.
 

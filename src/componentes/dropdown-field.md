@@ -38,7 +38,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Use um campo de lista suspensa quando uma das situações a seguir for válida:
 - As várias opções podem ser recolhidas em um título simplificado.

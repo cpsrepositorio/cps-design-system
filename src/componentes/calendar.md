@@ -52,7 +52,7 @@ Os botões de navegação entre décadas podem ser escondidos, no caso de um cal
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Calendários devem obedecer a medida mínima de `20rem` de largura por `22rem` de altura, dimensões que garantem a proporção adequada dos elementos e uma dimensão minimamente adequada dos itens para operação tanto por _mouse_ quanto por _touch_. Mas preferencialmente estas medidas devem ser mantidas mesmo em cenários onde haja mais espaço, para evitar distorções de espaçamento que podem gerar um efeito desagradável.
 

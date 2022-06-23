@@ -38,7 +38,7 @@ A aparência deste componente em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Barras de abas são uma ferramenta potencialmente útil de organização de diversas interfaces em uma única página. Entretanto leve em consideração que alguns usuários podem ignorar as guias secundárias, focando apenas no conteúdo da guia ativa por padrão. Deve ficar bem claro qual tipo de conteúdo é exibido nas outras abas e sua relevância para a ação do usuário. Ainda assim, se houver conteúdo extremamente importante para a ação do usuário desde o princípio, este não deveria estar escondido em abas secundárias, mas sim o _layout_ deveria ser estruturado de outra forma para não depender de barra de abas.
 

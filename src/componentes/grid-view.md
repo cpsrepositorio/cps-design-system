@@ -38,7 +38,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Exibições em grade são muito flexíveis, sendo peça chave para construção de _layouts_ modernos e responsivos, que se adaptam de colunas para linhas conforme o espaço horizontal disponível. Utilize isso a favor da interface que estiver construindo e lembre-se de testar os dimensionamentos fluidos e reposicionamentos de quebra em diferentes resoluções, conforme descrito em [ajustes para responsividade](../guia-visual/dimensoes-e-espacamentos.md#ajustes-para-responsividade).
 

@@ -38,17 +38,21 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
-- Indicador em forma de barra de progresso pode ser ampliado horizontalmente conforme necessário, até mesmo conforme a largura de toda a página caso seja utilizado para denotar o processo de carregamento de uma nova tela.
-- Indicador em forma de barra de progresso nunca deve ser ampliado verticalmente.
-- Indicador em forma de anel de progresso deve se manter em uma das três medidas apresentadas, as quais correspondem respectivamente a `1rem` (ou `16x`), `2rem` (ou `32px`) e `4rem` (ou `64px`).
+Indicador em forma de barra de progresso pode ser ampliado horizontalmente conforme necessário, até mesmo conforme a largura de toda a página caso seja utilizado para denotar o processo de carregamento de uma nova tela.
+
+Indicador em forma de barra de progresso nunca deve ser ampliado verticalmente.
+
+Indicador em forma de anel de progresso deve se manter em uma das três medidas apresentadas, as quais correspondem respectivamente a `1rem` (ou `16x`), `2rem` (ou `32px`) e `4rem` (ou `64px`).
 
 ### Animação
 
-- Embora exibidos aqui em imagens estáticas, ambas as variações deste componente devem ser animadas para demonstrar ao usuário que algo está acontecendo naquele momento, ou seja, a interface não está parada "travada".
-- Indicador em forma de barra de progresso deve ter sua área colorida animada, de forma que inicie sem largura e vá aumentando até cobrir toda a área cinza. Isto pode ocorrer de forma sincronizada com o tempo previsto para conclusão, caso seja uma duração conhecida (ainda que estimada), ou permanecer animando indefinidamente caso tenha duração indeterminada.
-- Indicador em forma de anel de progresso deve permanecer animando indefinidamente, em movimento circular no sentido horário.
+Embora exibidos aqui em imagens estáticas, ambas as variações deste componente devem ser animadas para demonstrar ao usuário que algo está acontecendo naquele momento, ou seja, a interface não está parada "travada".
+
+Indicador em forma de barra de progresso deve ter sua área colorida animada, de forma que inicie sem largura e vá aumentando até cobrir toda a área cinza. Isto pode ocorrer de forma sincronizada com o tempo previsto para conclusão, caso seja uma duração conhecida (ainda que estimada), ou permanecer animando indefinidamente caso tenha duração indeterminada.
+
+Indicador em forma de anel de progresso deve permanecer animando indefinidamente, em movimento circular no sentido horário.
 
 ### Acessibilidade
 

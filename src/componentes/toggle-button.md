@@ -20,7 +20,7 @@ A aparência em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Quase todas as caraterísticas de _layout_ de botões comuns devem ser seguidas da mesma maneira para botões de alternância, com duas exceções:
 

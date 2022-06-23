@@ -36,7 +36,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Sempre ofereça um título curto, direto e evidente sobre que tipo de conteúdo está sendo exibido no painel flutuante. Além disso, deve ser grafado em notação _Sentence case_, conforme explanado em [Tipografia](../guia-visual/tipografia.md#regras-de-formatação).
 

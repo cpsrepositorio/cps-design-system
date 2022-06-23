@@ -64,7 +64,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Sobre como escolher quando usar caixas de seleção ou botões de opção:
 - Use uma única caixa de seleção (_checkbox_) quando houver apenas uma seleção a fazer ou escolha a confirmar, por exemplo, confirmar o aceite a termos de uso durante o cadastro em uma aplicação. Marcar a caixa de seleção em branco a seleciona, acioná-la novamente desmarca a caixa de seleção.

@@ -47,10 +47,11 @@ Exemplo em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
-- Cabeçalhos de _accordion_ sempre possuem `64px` de altura, ainda que esteja sendo exibido apenas um título, sem ícone e/ou subtítulo.
-- Área de conteúdo de um _accordion_ expandido não precisa ter altura fixa, a menos que se queira propositalmente limitar seu tamanho e exibir barra de rolagem vertical ali mesmo. Em geral, é uma melhor opção deixar o conteúdo do _accordion_ expandir livremente seu _container_, ficando a barra de rolagem vertical no exterior do grupo de cabeçalhos de _accordion_.
+Cabeçalhos de _accordion_ sempre possuem `64px` de altura, ainda que esteja sendo exibido apenas um título, sem ícone e/ou subtítulo.
+
+Área de conteúdo de um _accordion_ expandido não precisa ter altura fixa, a menos que se queira propositalmente limitar seu tamanho e exibir barra de rolagem vertical ali mesmo. Em geral, é uma melhor opção deixar o conteúdo do _accordion_ expandir livremente seu _container_, ficando a barra de rolagem vertical no exterior do grupo de cabeçalhos de _accordion_.
 
 ### Usabilidade
 

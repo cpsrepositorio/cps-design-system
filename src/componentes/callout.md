@@ -18,7 +18,7 @@ Este componente pode ser utilizado conforme as variações descritas a seguir.
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 > TODO
 

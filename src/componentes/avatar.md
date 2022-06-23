@@ -30,13 +30,17 @@ Caso não seja possível inferir iniciais, seja pela ausência de nome ou pela e
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
-- Use avatar com menos de 24 pixels em situações raras e específicas, dada a dificuldade de visualização tanto da imagem quanto das inicias em um tamanho muito reduzido.
-- Use avatar de 24 pixels dentro de campos de texto em modo somente leitura, ou dentro de experiências similares a tabelas com colunas que precisam de representações compactas de pessoas.
-- Use avatar de 32 pixels em campos de texto em modo de edição.
-- Use avatar de 32 pixels a 48 pixels em menus e exibições de lista, conforme a densidade de informação desejada.
-- Use avatar de 72 pixels a 100 pixels como imagem central de cartões de perfil e similares.
+Use avatar com menos de `24px` em situações raras e específicas, dada a dificuldade de visualização tanto da imagem quanto das inicias em um tamanho muito reduzido.
+
+Use avatar de `24px` dentro de campos de texto em modo somente leitura, ou dentro de experiências similares a tabelas com colunas que precisam de representações compactas de pessoas.
+
+Use avatar de `32px` em campos de texto em modo de edição.
+
+Use avatar de `32px` a `48px` em menus e exibições de lista, conforme a densidade de informação desejada.
+
+Use avatar de `72px` a `100px` como imagem central de cartões de perfil e similares.
 
 ### Cores
 

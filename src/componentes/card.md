@@ -34,7 +34,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Recomenda-se utilizar um espaçamento interno (_padding_) padrão de `1.5rem` entre as bordas dos cartões e seus elementos internos. Recomenda-se também manter uma distância padrão de `1rem` entre os elementos internos do cartão, ou entre blocos de elementos no caso de _layouts_ mais complexos.
 

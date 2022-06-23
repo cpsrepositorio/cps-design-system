@@ -48,7 +48,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Este indicador esqueleto existe justamente para evitar _layout shift_ e melhorar a percepção que o usuário tem do _layout_ que será apresentado em breve, portanto suas medidas devem ser sempre as mais próximas possíveis do elemento que aparecerá em seu lugar quando o carregamento for concluído.
 
@@ -56,8 +56,9 @@ Isto é regra para medidas verticais, mas nem sempre é possível para medidas h
 
 ### Animação
 
-- Embora exibidos aqui em imagens estáticas, todas as variações deste componente devem ser animadas para demonstrar ao usuário que algo está carregando naquele local, ou seja, a interface não está parada "travada".
-- O sutil gradiente existente no indicador é o que deve ser animando, transitando horizontalmente através do elemento, o que gera um efeito similar a um brilho passando repetidamente pelo componente.
+Embora exibidos aqui em imagens estáticas, todas as variações deste componente devem ser animadas para demonstrar ao usuário que algo está carregando naquele local, ou seja, a interface não está parada "travada".
+
+O sutil gradiente existente no indicador é o que deve ser animando, transitando horizontalmente através do elemento, o que gera um efeito similar a um brilho passando repetidamente pelo componente.
 
 ### Acessibilidade
 

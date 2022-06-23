@@ -36,7 +36,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Um assistente de passos só faz sentido quando um número definido e pequeno de passos é válido para uma tarefa específica. Não é recomendado construir interfaces com mais de cinco passos, sendo que três passos deve ser a meta para a maioria das situações.
 

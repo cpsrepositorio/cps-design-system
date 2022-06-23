@@ -16,7 +16,7 @@ Neste _design system_, as âncoras que apontam para endereços externos possuem 
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Âncoras textuais normalmente fluem junto ao texto em que estão inseridas, portanto não possuem especificações de medidas a não ser o tamanho da fonte coerente com o texto em que se localizam.
 

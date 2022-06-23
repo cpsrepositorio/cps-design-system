@@ -50,7 +50,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Caixas de texto de linha simples não devem ser redimensionadas verticalmente, sempre mantendo-se a medida vertical em `2rem`, com o conteúdo adequadamente centralizado verticalmente.
 

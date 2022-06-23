@@ -64,7 +64,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Uma barra de notificação é mais comumente encontrada na parte inferior central de um aplicativo, flutuando acima do conteúdo, usando [elevação](../guia-visual/elevacao.md#shadow-lg) para diferenciá-la do restante do conteúdo. Entretanto, se for uma informação estritamente direcionada a apenas uma parte do _layout_, é válido que barra de notificação seja embutida no fluxo do documento, empurrando o conteúdo posterior a ela quando estiver em exibição e, neste caso, sem utilizar elevação pois estará contida no mesmo plano que o restante do conteúdo.
 

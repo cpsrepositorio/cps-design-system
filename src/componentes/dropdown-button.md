@@ -38,7 +38,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Sendo um tipo especializado de botão, este componente também deve seguir recomendações básicas de _layout_ e dimensões apresentadas em [Button](./button.md), especialmente as que se aplicando à variação de botão padrão, por compartilharem aparência similar.
 

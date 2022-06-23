@@ -20,7 +20,7 @@ A aparência em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Este componente não possui qualquer característica de _layout_ em especial, apenas seguindo fundamentalmente os mesmos comportamentos do elemento `<input type="range">` nativo.
 

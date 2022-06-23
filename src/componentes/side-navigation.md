@@ -40,11 +40,13 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Utilize este componente em praticamente todas as telas de um sistema corporativo, com exceção às poucas telas de conteúdo mínimo e centralizado tanto verticalmente quanto horizontalmente, como em telas de _login_. Esta recomendação só não é pertinente quando poucas telas existirem no sistema (seja em geral, ou seja conforme permissões do usuário ativo), situação esta onde pode ser mais relevante utilizar-se apenas da variação de menu superior do componente [TopNavigation](./top-navigation.md).
 
 Cada item do menu atua como um [ToggleButton](./toggle-button.md) com aparência personalizada, ou seja, o item selecionado representa a tela atualmente em exibição no sistema e, portanto, acionar outro item automaticamente remove a seleção do item atual, bem como conduz a navegação à nova tela.
+
+Itens de menu devem ser grafados em notação _Sentence case_, conforme explanado em [Tipografia](../guia-visual/tipografia.md#regras-de-formatação).
 
 O botão inicial com o ícone <kbd>☰</kbd> pode designar ações diferentes, dependendo das necessidades em relação à persistência do menu lateral na interface, ou seja, da relevância de contraí-lo ou de escondê-lo, bem como da variação dessas necessidades em diferentes resoluções. Ou seja, diferentes comportamentos são válidos, como os casos descritos a seguir:
 - Eventualmente, tal botão pode nem precisar ser exibido, caso a visibilidade da navegação lateral e de qual variação utilizar for totalmente controlada pela aplicação e não pelo usuário.

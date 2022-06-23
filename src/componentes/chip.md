@@ -36,7 +36,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Este componente pode acompanhar o tamanho de fonte do conteúdo onde está inserido, sendo as medidas aqui apresentadas na imagens de exemplo meras referências.
 

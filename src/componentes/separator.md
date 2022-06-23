@@ -48,7 +48,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 A linha separadora sempre terá exatamente `1px` de altura, quando na horizontal, ou de largura, quando na vertical, sendo que a dimensão oposta deve fluir e preencher todo o _container_ onde se encontra.
 

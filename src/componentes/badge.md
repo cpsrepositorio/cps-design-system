@@ -72,7 +72,7 @@ A aparência desta variação em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 _Badges_ não devem ser redimensionados verticalmente, mantendo dimensão equivalente a `0.25rem` em sua versão mínima, e equivalente a `0.875rem` em sua versão padrão.
 

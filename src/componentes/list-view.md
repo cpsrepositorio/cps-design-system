@@ -50,7 +50,7 @@ A aparência deste componente em modo escuro:
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.
 
-### Layout
+### Exibição e comportamento
 
 Embora cada um dos itens de lista tenham uma medida vertical padrão equivalente a [Button](button.md), é possível que possuam altura maior no caso de exibirem informações em múltiplas linhas dentro de cada item, conforme a necessidade de apresentação de dados do _layout_.
 
