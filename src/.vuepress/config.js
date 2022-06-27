@@ -71,7 +71,7 @@ module.exports = {
             'check-field',
             'chip',
             'color-field',
-            { title: 'DataTable' },
+            'data-table',
             'date-field',
             'dialog',
             'dropdown-button',
