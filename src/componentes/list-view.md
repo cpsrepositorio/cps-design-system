@@ -34,7 +34,7 @@ A aparência desta variação em modo escuro:
 
 ![ListView - Modo Escuro - Seleção Múltipla](~@source/assets/images/component-listview-dark-multiselect.png)
 
-### Item de lista
+### Item de Lista
 
 Não necessariamente uma variação, mas sim um complemento às variações previamente documentadas. Cada opção dentro de uma exibição em lista é um sub-componente próprio, o qual possui alguma semelhança comportamental com um [ToggleButton](./toggle-button.md), embora com visual bem próprio. Isto significa que um item de lista em estado de repouso (não ativo), possui estados `:hover`, `:active` e `:focus`, enquanto um item de lista ativo (selecionado) não possui visuais diferenciados para estes estados.
 
@@ -52,7 +52,7 @@ Para que este componente seja utilizado da melhor maneira possível, observe as 
 
 ### Exibição e comportamento
 
-Embora cada um dos itens de lista tenham uma medida vertical padrão equivalente a [Button](button.md), é possível que possuam altura maior no caso de exibirem informações em múltiplas linhas dentro de cada item, conforme a necessidade de apresentação de dados do _layout_.
+Embora cada um dos itens de lista tenha uma medida vertical padrão equivalente a [Button](button.md), é possível que possuam altura maior no caso de exibirem informações em múltiplas linhas dentro de cada item, conforme a necessidade de apresentação de dados do _layout_.
 
 Itens podem ser puramente textuais conforme os exemplos aqui demonstrados, mas também podem conter ícones junto ao texto, ou mesmo outros elementos de apoio, como [Avatar](./avatar.md) no caso de uma lista de usuários, [Badge](./badge.md) para acrescentar-se informações após os textos, ou ainda composições em uma ou mais linhas dentro do item, com variações de fonte para designar texto principal do item e diferenciá-lo de textos secundários.
 
