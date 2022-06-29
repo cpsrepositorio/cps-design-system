@@ -100,7 +100,7 @@ module.exports = {
             'toast-notification',
             'toggle-button',
             'top-navigation',
-            { title: 'TreeView' },
+            'tree-view',
           ]
         }
       ]
