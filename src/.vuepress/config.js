@@ -85,7 +85,7 @@ module.exports = {
             'menu-flyout',
             'multi-select-field',
             'number-field',
-            { title: 'Pagination' },
+            'pagination',
             { title: 'PieChart' },
             'progress-indicator',
             'rating-field',
