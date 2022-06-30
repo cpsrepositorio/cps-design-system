@@ -66,7 +66,7 @@ module.exports = {
             'split-button',
             'button',
             'calendar',
-            { title: 'Callout' },
+            'callout',
             'card',
             'check-field',
             'chip',
