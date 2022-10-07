@@ -1,12 +1,12 @@
 # CPS Design System
 
-> Documentação do Design System Corporativo do CPS
+> Design System Corporativo para utilização em sistemas internos do Centro Paula Souza.
 
 ## Introdução
 
 **CPS Design System** é um sistema de _design_ corporativo para utilização em sistemas internos do [Centro Paula Souza](https://www.cps.sp.gov.br/), isto é, trata-se de um conjunto completo de padrões a serem utilizados e replicados em diferentes sistemas internos, a fim de simplificar a viabilização de UX (User Experience) padronizada.
 
-Para saber mais sobre as motivações por trás deste projeto e a relevância de aderir ao _design system_ coporativo, [leia mais](https://cpsrepositorio.github.io/cps-design-system/guia-visual/#introducao).
+Para saber mais sobre as motivações deste projeto e a relevância de aderir a ele, [leia mais](https://cpsrepositorio.github.io/cps-design-system/guia-visual/#introducao).
 
 ## Contribuindo
 
@@ -22,4 +22,4 @@ npm run dev
 
 A partir daí, é possível acessar a versão local em execução da documentação, através do endereço http://localhost:8080. Assim, alterações diretas em qualquer arquivo do projeto, especialmente os arquivos `.md` contendo os textos da documentação, são automaticamente reproduzidas no navegador em que a documentação em modo de desenvolvimento está sendo visualizada.
 
-As imagens e _assets_ em geral da documentação foram construídos através do Figma, com base em um conjunto de _forks_ do Windows UI Design e do Fluent UI Web da Microsoft. A elaboração de arquivo unificado no Figma está sendo planejada, para permitir contribuição facilitada diretamente nas peças de _design_, mas ainda não está disponível.
+As imagens e _assets_ em geral foram construídos através do [Figma](https://www.figma.com/), com base em um conjunto de _forks_ do [Windows UI](https://www.figma.com/community/file/989931624019688277) e do [Microsoft Fluent Web](https://www.figma.com/community/file/836828295772957889). A elaboração de um arquivo unificado no Figma está sendo planejada, para permitir contribuição facilitada diretamente nas peças de _design_.
