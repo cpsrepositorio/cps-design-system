@@ -32,7 +32,7 @@ Para todos os outros casos, incluindo cada sistema interno que aderir a este _de
 
 ![Exemplo de Ícone de Sistema](~@source/assets/images/icons-sample-system.png)
 
-O **CPS Design System** segue, na iconografia, a mesma influência que norteou sua construção. Assim, recomenda-se o uso da biblioteca de ícones [Segoe Fluent Icons](https://github.com/microsoft/fluentui-system-icons) da Microsoft, uma coleção livre sob [licença MIT](https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE), com mais de 5 mil ícones cuidadosamente construídos usando as mesmas características geométricas do restante da interface Fluent, através de três princípios estéticos:
+O **CPS Design System** segue, na iconografia, a mesma influência que norteou sua construção. Assim, recomenda-se o uso da biblioteca de ícones [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) da Microsoft, uma coleção livre sob [licença MIT](https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE), com mais de 4 mil ícones cuidadosamente construídos usando as mesmas características geométricas do restante da interface Fluent, através de três princípios estéticos:
 
 1. **Mínimo:** Contêm apenas os mínimos traços necessários para comunicar o conceito.
 2. **Harmonioso:** Se baseiam em formatos simples e geométricos.
@@ -42,19 +42,19 @@ Esta coleção de ícones é oferecida em duas variações de _design_: **versã
 
 ### Versão Regular
 
-A **versão regular** da biblioteca de ícones **Segoe Fluent Icons** se baseia somente em linhas de demarcação dos glifos, ou seja, traços puros sem preenchimento. Normalmente, em outras bibliotecas de ícones, este visual é chamado de _outline_.
+A **versão regular** da biblioteca de ícones **Fluent UI System Icons** se baseia somente em linhas de demarcação dos glifos, ou seja, traços puros sem preenchimento. Normalmente, em outras bibliotecas de ícones, este visual é chamado de _outline_.
 
 <IconsShowcase version="regular" />
 
 ### Versão Preenchida
 
-A **versão preenchida** da biblioteca de ícones **Segoe Fluent Icons**, como o nome já indica, possui preenchimento nos glifos, utilizando-se de intersecções vazadas para distinguir diferentes figuras dentro de um mesmo ícone.
+A **versão preenchida** da biblioteca de ícones **Fluent UI System Icons**, como o nome já indica, possui preenchimento nos glifos, utilizando-se de intersecções vazadas para distinguir diferentes figuras dentro de um mesmo ícone.
 
 <IconsShowcase version="filled" />
 
 ## Outros Pacotes de Ícones
 
-Conforme já explanado, este _design system_ recomenda fortemente o uso da biblioteca **Segoe Fluent Icons**, por seu ajuste ímpar ao estilo visual adotado no Fluent Design e, por consequência, no **CPS Design System**. Apesar disso, não é terminante proibido usar outras bibliotecas de ícones, desde que o estilo visual geral não seja impactado com a escolha de ícones sem qualquer semelhança visual com este _design system_.
+Conforme já explanado, este _design system_ recomenda fortemente o uso da biblioteca **Fluent UI System Icons**, por seu ajuste ímpar ao estilo visual adotado no Fluent Design e, por consequência, no **CPS Design System**. Apesar disso, não é terminante proibido usar outras bibliotecas de ícones, desde que o estilo visual geral não seja impactado com a escolha de ícones sem qualquer semelhança visual com este _design system_.
 
 ::: danger Cuidado!
 Utilizar ícones específicos em formato `SVG` de outras bibliotecas não é um problema em si, desde que respeitado o estilo visual. Mas isto não vale para o caso de importar bibliotecas de ícones inteiras (mesmo que em versão Web Font), pois o carregamento de diversas bibliotecas de ícones ao mesmo tempo seria um grave equívoco para o desempenho de carregamento da aplicação, para no final utilizar apenas alguns poucos ícones.
