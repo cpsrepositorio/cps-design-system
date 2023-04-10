@@ -11,7 +11,7 @@ module.exports = {
     ['link', { rel: "shortcut icon", href: "favicon.ico?v=20220630"}],
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: true }],
-    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Open+Sans&display=swap' }]
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@400;600;700&display=swap' }]
   ],
 
   themeConfig: {
@@ -32,11 +32,11 @@ module.exports = {
       },
       {
         text: 'Manual de Identidade Visual',
-        link: 'https://www.cps.sp.gov.br/wp-content/uploads/sites/1/2020/08/manual_centro_paula_souza_gestao2019_atualizado.pdf'
+        link: 'https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2023/03/2023_03_27_manual_de_identidade_visual_cps.pdf'
       },
       {
-        text: 'Guia de Identidade para Sites',
-        link: 'https://www.cps.sp.gov.br/wp-content/uploads/sites/1/2021/01/guia-digital-sites-cps-2021.pdf'
+        text: 'Guia de Estilo Site CPS',
+        link: 'https://cps.sp.gov.br/guia-estilo/'
       }
     ],
     sidebar: {

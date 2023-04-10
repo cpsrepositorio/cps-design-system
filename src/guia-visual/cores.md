@@ -54,7 +54,7 @@ Embora um tanto quanto evidente, por ser totalmente baseada em opacidades, resta
 
 ## Paleta de Cor de Marca
 
-Conforme o [Manual de Identidade Visual](https://www.cps.sp.gov.br/wp-content/uploads/sites/1/2020/08/manual_centro_paula_souza_gestao2019_atualizado.pdf) destaca, a cor de marca do CPS é o vermelho (`#B20000`), servindo tal cor como base para a paleta de cor de marca deste _design system_:
+Conforme o [Manual de Identidade Visual](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2023/03/2023_03_27_manual_de_identidade_visual_cps.pdf) destaca, a cor de marca do CPS é o vermelho (`#B20000`), servindo tal cor como base para a paleta de cor de marca deste _design system_:
 
 ![Paleta de Cor de Marca](~@source/assets/images/colors-palette-brand.png)
 
@@ -74,7 +74,7 @@ Por fim, destaca-se que a paleta de cor de marca não sofre interferência dos [
 
 ## Paleta de Cor de Ênfase
 
-Uma técnica comum de obtenção de cor de ênfase, quando a cor de marca não é pertinente para ser utilizada de forma persistente na interface, é buscar a tonalidade totalmente inversa à cor de marca. Conforme o [Guia de Identidade para Sites](https://www.cps.sp.gov.br/wp-content/uploads/sites/1/2021/01/guia-digital-sites-cps-2021.pdf) destaca, a cor inversa ao vermelho da marca do CPS é um tom turquesa. Na verdade, a cor inversa imediata é um tom de turquesa muito claro e brilhante e, portante, este _design system_ optou por seguir o ajuste de intensidade previamente realizado pela equipe da Assessoria de Comunicação no guia supracitado, adotando o tom turquesa mais escuro (`#005C6E`) como a cor base da paleta de cor de ênfase.
+Uma técnica comum de obtenção de cor de ênfase, quando a cor de marca não é pertinente para ser utilizada de forma persistente na interface, é buscar a tonalidade totalmente inversa à cor de marca. Conforme o [Guia de Estilo Site CPS](https://cps.sp.gov.br/guia-estilo/) destaca, a cor inversa ao vermelho da marca do CPS é um tom turquesa. Na verdade, a cor inversa imediata é um tom de turquesa muito claro e brilhante e, portante, este _design system_ optou por seguir o ajuste de intensidade previamente realizado pela equipe da Assessoria de Comunicação no guia supracitado, adotando o tom turquesa mais escuro (`#005C6E`) como a cor base da paleta de cor de ênfase.
 
 ![Paleta de Cor de Ênfase](~@source/assets/images/colors-palette-accent.png)
 
