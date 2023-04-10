@@ -1,6 +1,6 @@
 {
   "name": "cps-design-system",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Documentação do Design System Corporativo do CPS",
   "main": "index.js",
   "authors": {
@@ -10,13 +10,16 @@
   "repository": "https://github.com/cpsrepositorio/cps-design-system/cps-design-system",
   "scripts": {
     "dev": "nodemon --ext js,md,vue --watch . --exec yarn vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d src/.vuepress/dist"
   },
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.9.7",
     "@vuepress/plugin-back-to-top": "^1.9.7",
     "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "gh-pages": "^5.0.0",
     "nodemon": "^2.0.15",
     "vuepress": "^1.9.7"
   }
