@@ -4,7 +4,7 @@
 Este capítulo introdutório prossegue por tópicos mais teóricos e, embora recomendemos muito a leitura para contextualização, pode ser pulado se você estiver com muita pressa.
 :::
 
-À medida que o _design_ de <abbr title="User Interface">UI</abbr> evoluiu ao longo dos anos, a escala e a velocidade com que as telas de interface do usuário devem ser criadas também aumentaram. Com essa expansão drástica, surge uma necessidade extrema de as organizações otimizarem o trabalho de _design_. Assim, muitas equipes de _design_ aproveitam _design systems_ robustos para gerenciar designs em escala e com mais agilidade.
+À medida que o _design_ de <abbr title="User Interface">UI</abbr> evoluiu ao longo dos anos, a escala e a velocidade com que interfaces devem ser criadas também aumentaram. Com essa expansão drástica, surge uma necessidade extrema de as organizações otimizarem o trabalho de _design_. Assim, muitas equipes de _design_ aproveitam _design systems_ robustos para gerenciar _designs_ em escala e com mais agilidade.
 
 Assim, um _design system_ pode ser definido como um conjunto completo de padrões destinados a gerenciar o _design_ em escala, com padrões e componentes reutilizáveis.
 
@@ -18,7 +18,7 @@ Passe primeiro pelo **Guia Visual**, lendo [Camadas e Materiais](./camadas-e-mat
 
 **CPS Design System** é um sistema de _design_ corporativo para utilização em sistemas internos do [Centro Paula Souza](https://www.cps.sp.gov.br/), isto é, trata-se de um conjunto completo de padrões a serem utilizados e replicados em diferentes sistemas internos, a fim de simplificar a viabilização de <abbr title="User Experience">UX</abbr> padronizada.
 
-## Por que usar?
+## Por que aderir a ele?
 
 Design Systems não são novidade em grandes corporações, e também tem se tornado mais e mais frequentes em corporações menores. Quando bem implementados, podem fornecer muitos benefícios para as equipes.
 
@@ -57,7 +57,7 @@ Todo _design system_ precisa ser fundamentado em alguns princípios (eventualmen
 ::: details Exemplos práticos da aplicação dos princípios
 Não meramente filosóficos, é fácil perceber como os princípios _"Natural aos usuários"_, _"Intuitivo e poderoso"_, _"Empolgante e imersivo"_ se aplicam em cenários práticos:
 - A escolha de elementos com formatos comumente utilizados em aplicações similares facilita a compreensão. Por exemplo, é fácil reconhecer um [_checkbox_](../componentes/check-field.md) quando você vê um quadrado na tela com um ícone familiar de checagem (`✓`) dentro.
-- A utilização de cores com real significado diante do contexto também torna tudo mais intuitivo e simples de utilizar. Por exemplo, uma caixa de texto com borda vermelha certamente chama atenção para algum erro no preenchimento daquela informação. Claro que a acessibilidade também entre em jogo neste caso, mas é um assunto fora do escopo deste exemplo.
+- A utilização de cores com real significado diante do contexto também torna tudo mais intuitivo e simples de utilizar. Por exemplo, uma caixa de texto com borda vermelha certamente chama atenção para algum erro no preenchimento daquela informação. Claro que a acessibilidade também entra em jogo neste caso, mas é um assunto fora do escopo deste exemplo.
 - A escolha de ícones coerentes e tradicionais com a operação, quando viável, reduz drasticamente a cognição necessária para compreender um comportamento. Por exemplo, o tradicional ícone de trigrama (`☰`, também conhecido popularmente como _hamburger icon_) está mais do que estabelecido como o ícone que as pessoas procuram para abrir e fechar um menu de opções global da aplicação, não haveria motivos para divagar sobre a utilização de outro ícone para isso.
 :::
 
@@ -74,6 +74,14 @@ Experiências baseadas no **CPS Design System** se ajustam ao comportamento e à
 ### Empolgante e imersivo
 
 O mundo físico é nosso vocabulário. **CPS Design System** fala sobre luz e sombra, dimensões, elevações, materiais. O linguajar foi pensado com o intuito de reduzir o esforço necessário para que pessoas de diferentes áreas o compreendam.
+
+## Como utilizar, de forma prática?
+
+**CPS Design System** é um referencial teórico, composto por este guia visual, mais uma documentação ilustrativa, que pode ser utilizada para guiar o _design_ e o desenvolvimento de interfaces de usuário para aplicações do CPS, independentemente de quais linguagens ou _frameworks_ estiverem sendo utilizados pelas equipes.
+
+::: warning Atenção
+**CPS Design System** não é um _framework_ ou uma biblioteca de componentes, e não deve ser entendido como tal. Se o que você procura é efetivamente uma biblioteca de componentes totalmente aderente ao **CPS Design System**, mas que seja pronta para uso diretamente em seus projetos de soluções Web, acesse **[CPS Elements](https://cpsrepositorio.github.io/cps-elements/)**, uma biblioteca de Web Components de ponta, sem complicação, que podem executar nativamente em todos os navegadores modernos, bem como pode ser integrada com qualquer _framework_ JavaScript moderno, como Angular, React, Vue, etc.
+:::
 
 ## Como me envolver?
 

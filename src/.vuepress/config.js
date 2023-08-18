@@ -27,16 +27,12 @@ module.exports = {
         link: '/guia-visual/',
       },
       {
+        text: 'Documentação',
+        link: '/documentacao/'
+      },
+      {
         text: 'Componentes',
-        link: '/componentes/'
-      },
-      {
-        text: 'Manual de Identidade Visual',
-        link: 'https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2023/03/2023_03_27_manual_de_identidade_visual_cps.pdf'
-      },
-      {
-        text: 'Guia de Estilo Site CPS',
-        link: 'https://cps.sp.gov.br/guia-estilo/'
+        link: 'https://cpsrepositorio.github.io/cps-elements/'
       }
     ],
     sidebar: {
@@ -55,9 +51,9 @@ module.exports = {
           ]
         }
       ],
-      '/componentes/': [
+      '/documentacao/': [
         {
-          title: 'Componentes',
+          title: 'Documentação',
           collapsable: false,
           children: [
             'accordion',
