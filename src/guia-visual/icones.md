@@ -22,7 +22,7 @@ No contexto da Web, também são usados principalmente para reconhecer e iniciar
 Para máxima compatibilidade em diferentes dispositivos e plataformas, aplicações Web modernas devem conter vários _assets_ de ícones, em formatos e tamanhos variados, bem como arquivos de manifesto e importações corretamente realizadas nas páginas Web, para que sejam apresentados conforme esperado em cada cenário. Uma ferramenta como [Real Favicon Generator](https://realfavicongenerator.net/) pode ser de grande auxílio.
 :::
 
-Em algumas situações, ícones de aplicação são simplesmente derivações de marcas já existentes, como é o caso do _favicon_ utilizado nos portais do CPS, diretamente derivado de seu logotipo descrito no [Manual de Identidade Visual](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2023/03/2023_03_27_manual_de_identidade_visual_cps.pdf).
+Em algumas situações, ícones de aplicação são simplesmente derivações de marcas já existentes, como é o caso do _favicon_ utilizado nos portais do CPS, diretamente derivado de seu logotipo descrito no [Manual de Identidade Visual](https://www.cps.sp.gov.br/asscom/manuais-assessoria-de-comunicacao/).
 
 Para todos os outros casos, incluindo cada sistema interno que aderir a este _design system_, recomenda-se fortemente que um ícone de aplicação seja construído por um _designer_, seguindo boas práticas de elaboração de ícones de aplicações (ou ao menos seguindo-se bons materiais sobre o assunto, como [How to Design a Great App Icon: What You Need to Know](https://www.shopify.com/partners/blog/app-icon) e [5 Tips for Designing the Perfect Mobile App Icon](https://uplandsoftware.com/localytics/resources/blog/tips-for-designing-the-perfect-mobile-app-icon/)).
 

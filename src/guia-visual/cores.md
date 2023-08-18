@@ -54,7 +54,7 @@ Embora um tanto quanto evidente, por ser totalmente baseada em opacidades, resta
 
 ## Paleta de Cor de Marca
 
-Conforme o [Manual de Identidade Visual](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2023/03/2023_03_27_manual_de_identidade_visual_cps.pdf) destaca, a cor de marca do CPS é o vermelho (`#B20000`), servindo tal cor como base para a paleta de cor de marca deste _design system_:
+Conforme o [Manual de Identidade Visual](https://www.cps.sp.gov.br/asscom/manuais-assessoria-de-comunicacao/) destaca, a cor de marca do CPS é o vermelho (`#B20000`), servindo tal cor como base para a paleta de cor de marca deste _design system_:
 
 ![Paleta de Cor de Marca](~@source/assets/images/colors-palette-brand.png)
 
@@ -67,7 +67,7 @@ Uma vez que esta cor de marca vermelha é muito intensa, marcante e cheia de sig
 
 - Evidentemente, o _logo_ do CPS, o qual nunca deve ter suas cores modificadas;
 - O _logo_ dos sistemas internos que queiram seguir a mesma cor de marca;
-- As âncoras para outras páginas (_hyperlinks_);
+- Elementos decorativos associados à estrutura de navegação geral (como a barra lateral de navegação deste _design system_).
 - Os elementos específicos e não persistentes (como o ícone de voltar ao topo da página deste _design system_).
 
 Por fim, destaca-se que a paleta de cor de marca não sofre interferência dos [Modos de Cor](#modos-de-cor), isto é, as cores não são modificadas entre os dois modos. Porém, com exceção à cor base, as outras tonalidades podem sofrer ajuste de opacidade para se misturem melhor às camadas base dos modos de cor distintos.
