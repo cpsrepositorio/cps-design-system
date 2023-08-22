@@ -47,9 +47,9 @@ Use um campo de lista suspensa quando uma das situações a seguir for válida:
 
 Grande parte das questões de _layout_ já abordadas no componente [TextField](./text-field.md) também são válidas para este, como: não redimensionar a caixa verticalmente, não colocar o campo em meio a frases, incluir rótulo (_label_) conforme necessário, reagir a diferentes estados de validação de dados, seguir notação _Sentence case_ conforme explanado em [Tipografia](../guia-visual/tipografia.md#regras-de-formatação).
 
-Estendendo às recomendações sobre rótulo (_label_), recomenda-se que este descreva com clareza que tipo de informação pode ser encontrada na lista de opções.
+Estendendo às recomendações sobre rótulo (_label_), recomenda-se que este descreva com clareza que tipo de informação pode ser encontrada na lista de opções, ao invés de apresentar apenas um texto genérico do tipo `"Selecione uma opção"`. Este tipo de texto genérico se encaixa melhor como um texto de espaço reservado (_placeholder_) dentro do campo de lista suspensa, conforme descrito a seguir.
 
-O texto de espaço reservado (_placeholder_) é altamente recomendado para este componente, sem que não há item selecionado por padrão. Desta forma, um rótulo como `"Seleciona uma opção"` pode ser muito pertinente para que o usuário perceba rapidamente que não se trata de um simples campo de digitação de texto, mas sim um campo com uma lista suspensa oculta.
+O texto de espaço reservado (_placeholder_) é altamente recomendado para este componente, sempre que não há item selecionado por padrão. Desta forma, um _placeholder_ como `"Selecione uma opção"` pode ser muito pertinente para que o usuário perceba rapidamente que não se trata de um simples campo de digitação de texto, mas sim um campo com uma lista suspensa oculta. Observe, portanto, que _label_ e _placeholder_ são complementares neste tipo de campo, e portanto ambos são recomendados, e com valores propositalmente distintos.
 
 Sobre os itens da lista suspensa, algumas recomendações também são pertinentes:
 - Se os dados a serem informados permitem que o usuário escolha `"Nenhum"`, coloque isto claramente como opção na lista suspensa. Isto garante que o usuário escolheu conscientemente esta opção, ao invés de simplesmente ter deixado o campo sem seleção por engano.
