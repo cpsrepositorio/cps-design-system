@@ -16,11 +16,11 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.9.7",
-    "@vuepress/plugin-back-to-top": "^1.9.7",
-    "@vuepress/plugin-medium-zoom": "^1.9.7",
-    "gh-pages": "^5.0.0",
-    "nodemon": "^2.0.15",
-    "vuepress": "^1.9.7"
+    "@vuepress/plugin-active-header-links": "^1.9.10",
+    "@vuepress/plugin-back-to-top": "^1.9.10",
+    "@vuepress/plugin-medium-zoom": "^1.9.10",
+    "gh-pages": "^6.3.0",
+    "nodemon": "^3.1.10",
+    "vuepress": "^1.9.10"
   }
 }
