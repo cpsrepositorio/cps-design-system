@@ -4,7 +4,7 @@ Uma exibição em árvore (_tree view_) permite apresentar dados empilhados hier
 
 É uma espécie de "evolução" do componente [ListView](./list-view.md), ao acrescentar-se diferentes níveis aos itens da lista.
 
-Embora seja muitas vezes considerado um componente de usabilidade avançada no âmbito de sistemas Web, é ao mesmo tempo uma usabilidade comum nos sistemas operacionais _desktop_ em geral, como na árvore de arquivos do Windows Explorer ou do macOS Finder.
+Embora seja muitas vezes considerado um componente de usabilidade avançada no âmbito de sistemas _web_, é ao mesmo tempo uma usabilidade comum nos sistemas operacionais _desktop_ em geral, como na árvore de arquivos do Windows Explorer ou do macOS Finder.
 
 ## Variações
 

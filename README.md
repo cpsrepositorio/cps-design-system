@@ -10,7 +10,7 @@
 
 **CPS Design System** é um conjunto de padrões de _design_, é um referencial puramente teórico e ilustrativo, que pode ser utilizado para guiar o design e o desenvolvimento de interfaces de usuário para aplicações do CPS, independentemente de quais linguagens ou frameworks estiverem sendo utilizados pelas equipes. Entretanto, por si só não é um _framework_ ou uma biblioteca de componentes, e portanto, não disponibiliza qualquer tipo de pacote para utilização por desenvolvedores finais.
 
-Se o que você procura é efetivamente uma biblioteca de componentes que seja totalmente aderente ao **CPS Design System**, mas que já esteja pronta para uso, diretamente em seus projetos de soluções Web, acesse **[CPS Elements](https://cpsrepositorio.github.io/cps-elements/)**. Trata-se de uma biblioteca de Web Components de ponta, sem complicação, que podem executar nativamente em todos os navegadores modernos, bem como pode ser integrada com qualquer _framework_ JavaScript moderno, como Angular, React, Vue, etc.
+Se o que você procura é efetivamente uma biblioteca de componentes que seja totalmente aderente ao **CPS Design System**, mas que já esteja pronta para uso, diretamente em seus projetos de soluções _web_, acesse **[CPS Elements](https://cpsrepositorio.github.io/cps-elements/)**. Trata-se de uma biblioteca de Web Components de ponta, sem complicação, que podem executar nativamente em todos os navegadores modernos, bem como pode ser integrada com qualquer _framework_ JavaScript moderno, como Angular, React, Vue, etc.
 
 ## Contribuindo
 

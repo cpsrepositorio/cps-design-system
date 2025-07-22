@@ -10,7 +10,7 @@ Este componente pode ser utilizado conforme as variações descritas a seguir.
 
 ### Padrão
 
-A variação padrão deste componente apresenta seu _layout_ de menu lateral expandido ocupando uma dimensão horizontal de `320px`, medida recorrente em diversas aplicações Web. É uma variação de uso geral em sistemas corporativos, por oferecer um bom espaço da interface para a apresentação dos itens do menu, os quais podem conter textos relativamente grandes para designar claramente o que cada opção de menu apresenta.
+A variação padrão deste componente apresenta seu _layout_ de menu lateral expandido ocupando uma dimensão horizontal de `320px`, medida recorrente em diversas aplicações _web_. É uma variação de uso geral em sistemas corporativos, por oferecer um bom espaço da interface para a apresentação dos itens do menu, os quais podem conter textos relativamente grandes para designar claramente o que cada opção de menu apresenta.
 
 Por ocupar bastante espaço horizontal, não é um _layout_ adequado para resoluções menores do que _desktops_, embora eventualmente seja utilizada em dispositivos móveis através de alternância de estado, ou seja, quando aberto o menu flutua sobre o restante da página, como um [FloatingPanel](./floating-panel.md), mantendo-se totalmente recolhido e sem ocupar qualquer espaço quando não aberto, comumente utilizando o recorrente ícone <kbd>☰</kbd> para tal ação.
 

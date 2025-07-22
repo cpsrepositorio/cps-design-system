@@ -80,7 +80,7 @@ O mundo físico é nosso vocabulário. **CPS Design System** fala sobre luz e so
 **CPS Design System** é um referencial teórico, composto por este guia visual, mais uma documentação ilustrativa, que pode ser utilizada para guiar o _design_ e o desenvolvimento de interfaces de usuário para aplicações do CPS, independentemente de quais linguagens ou _frameworks_ estiverem sendo utilizados pelas equipes.
 
 ::: warning Atenção
-**CPS Design System** não é um _framework_ ou uma biblioteca de componentes, e não deve ser entendido como tal. Se o que você procura é efetivamente uma biblioteca de componentes totalmente aderente ao **CPS Design System**, mas que seja pronta para uso diretamente em seus projetos de soluções Web, acesse **[CPS Elements](https://cpsrepositorio.github.io/cps-elements/)**, uma biblioteca de Web Components de ponta, sem complicação, que podem executar nativamente em todos os navegadores modernos, bem como pode ser integrada com qualquer _framework_ JavaScript moderno, como Angular, React, Vue, etc.
+**CPS Design System** não é um _framework_ ou uma biblioteca de componentes, e não deve ser entendido como tal. Se o que você procura é efetivamente uma biblioteca de componentes totalmente aderente ao **CPS Design System**, mas que seja pronta para uso diretamente em seus projetos de soluções _web_, acesse **[CPS Elements](https://cpsrepositorio.github.io/cps-elements/)**, uma biblioteca de _web_ Components de ponta, sem complicação, que podem executar nativamente em todos os navegadores modernos, bem como pode ser integrada com qualquer _framework_ JavaScript moderno, como Angular, React, Vue, etc.
 :::
 
 ## Como me envolver?

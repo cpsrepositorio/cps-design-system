@@ -55,7 +55,7 @@ Acrílico é um material semitransparente que simula o efeito de vidro fosco, at
 Você pode ver o acrílico em uso, aqui mesmo na interface da documentação deste _design system_, no cabeçalho superior. Basta rolar o conteúdo e observar o sutil efeito de transparência "borrada" se formando conforme o conteúdo vai passando por trás do cabeçalho.
 :::
 
-Originalmente conhecido como efeito vidro (_glass_) desde os tempos do Windows 7, evoluiu para acrílico no Windows 10 e foi levemente atualizado no Windows 11 para ser mais brilhante e mais translúcido, permitindo uma relação contextual mais forte com os visuais por trás dele. Com a evolução da linguagem CSS em relação ao efeito de embaçamento de fundo, o material acrílico também é viável atualmente em sistemas Web.
+Originalmente conhecido como efeito vidro (_glass_) desde os tempos do Windows 7, evoluiu para acrílico no Windows 10 e foi levemente atualizado no Windows 11 para ser mais brilhante e mais translúcido, permitindo uma relação contextual mais forte com os visuais por trás dele. Com a evolução da linguagem CSS em relação ao efeito de embaçamento de fundo, o material acrílico também é viável atualmente em sistemas _web_.
 
 Por ser um efeito que chama a atenção, e por potencialmente dificultar a visualização de textos caso os elementos por trás tenham muita variação de contrastes, seu uso é recomendado com moderação, para superfícies transitórias como submenus e menus de contexto. Outro uso viável é em interfaces específicas que podem se utilizar de imagens de segundo plano, por trás do acrílico, como em telas de boas-vindas e de acesso ao sistema (_login_).
 

@@ -4,10 +4,10 @@ Usar a combinação apropriada de dimensões e espaçamentos, de forma padroniza
 
 ## Ajustes para Responsividade
 
-Aplicações Web podem ser executadas em qualquer dispositivo que suporte executar um navegador, o que atualmente inclui _smartphones_, _tablets_, _laptops_, computadores de mesa convencionais, TVs e muito mais. Interfaces modernas precisam ser planejadas desde o princípio para que se encaixem bem em dispositivos com telas pequenas, e então que se expandam naturalmente tirando vantagem de telas maiores. Esta abordagem é conhecida como **design responsivo iniciando em dispositivos móveis** (_mobile first responsive design_) e, embora não seja uma abordagem unânime, é provavelmente a mais utilizada e é altamente recomendada por este _design system_.
+Aplicações _web_ podem ser executadas em qualquer dispositivo que suporte executar um navegador, o que atualmente inclui _smartphones_, _tablets_, _laptops_, computadores de mesa convencionais, TVs e muito mais. Interfaces modernas precisam ser planejadas desde o princípio para que se encaixem bem em dispositivos com telas pequenas, e então que se expandam naturalmente tirando vantagem de telas maiores. Esta abordagem é conhecida como **design responsivo iniciando em dispositivos móveis** (_mobile first responsive design_) e, embora não seja uma abordagem unânime, é provavelmente a mais utilizada e é altamente recomendada por este _design system_.
 
 ::: tip Dica
-Ao projetar pontos de quebra, considere a quantidade de espaço efetivamente disponível dentro do aplicativo, não o tamanho da tela em si. Quando o aplicativo é executado em tela inteira, a janela do aplicativo tem o mesmo tamanho da tela, mas quando não está em tela inteira, a janela é eventualmente menor. Considerando-se a execução dentro de um navegador Web, o que importa é a área disponível para visualização (_viewport_).
+Ao projetar pontos de quebra, considere a quantidade de espaço efetivamente disponível dentro do aplicativo, não o tamanho da tela em si. Quando o aplicativo é executado em tela inteira, a janela do aplicativo tem o mesmo tamanho da tela, mas quando não está em tela inteira, a janela é eventualmente menor. Considerando-se a execução dentro de um navegador _web_, o que importa é a área disponível para visualização (_viewport_).
 :::
 
 Com um grande número de dispositivo e tamanhos de tela variados, em vez de tentar otimizar a interface para cada dispositivo, é mais recomendável projetar para algumas categorias de largura de chave (também chamadas de "pontos de quebra", ou _breakpoints_). As classificações mais convencionais costumam abordar três pontos chave: **Pequenos** (até `640px`), **Médios** (entre `641px` e `1023px`) e **Grandes** (a partir de `1024px`).
@@ -55,7 +55,7 @@ Um bom ponto de partida é este excelente material sobre [Técnicas de Design Re
 
 ## Padronização de Medidas
 
-Neste _design system_, os tamanhos, margens, espaçamentos e posições dos elementos na interface são construídos a partir da medida de fonte padrão do navegador Web, o `rem`. Consideração a configuração padrão, `1rem` equivale a `16px`, porém com a vantagem de ser flexível a configurações personalizadas realizadas por usuários com necessidades específicas.
+Neste _design system_, os tamanhos, margens, espaçamentos e posições dos elementos na interface são construídos a partir da medida de fonte padrão do navegador _web_, o `rem`. Consideração a configuração padrão, `1rem` equivale a `16px`, porém com a vantagem de ser flexível a configurações personalizadas realizadas por usuários com necessidades específicas.
 
 A partir disto, a tabela de padronização de espaçamentos se utiliza de dividendos e múltiplos de `2` a partir do tamanho padrão, obtendo-se a seguinte escala:
 

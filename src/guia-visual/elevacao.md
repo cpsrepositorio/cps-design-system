@@ -2,7 +2,7 @@
 
 A criação de uma hierarquia visual de elementos na interface do usuário facilita percorrer visualmente a tela e transmite com rapidez em que é importante focar. Elevação, desta forma, é o ato de trazer mais "à frente" elementos selecionados da interface do usuário, sendo frequentemente usada para oferecer maior sensação de hierarquia. Quando dois ou mais objetos ocupam o mesmo local na tela, somente o objeto com a elevação mais alta será renderizado nesse local.
 
-Interfaces de usuário (sejam elas Web, _desktop_ ou _mobile_) residem em um ambiente de duas dimensões. Afinal, telas digitais são um plano cartesiano de _pixels_ com altura e largura, mas sem profundidade. Assim, a sensação de Elevação do **CPS Design System** trata-se de um efeito obtido através do uso de sombras e contornos (ou bordas) em controles e superfícies, de forma a simular sutilmente o efeito natural real de um elemento mais elevado do que os demais.
+Interfaces de usuário (sejam elas _web_, _desktop_ ou _mobile_) residem em um ambiente de duas dimensões. Afinal, telas digitais são um plano cartesiano de _pixels_ com altura e largura, mas sem profundidade. Assim, a sensação de Elevação do **CPS Design System** trata-se de um efeito obtido através do uso de sombras e contornos (ou bordas) em controles e superfícies, de forma a simular sutilmente o efeito natural real de um elemento mais elevado do que os demais.
 
 ## Níveis de Elevação
 

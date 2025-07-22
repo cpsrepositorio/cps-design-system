@@ -16,10 +16,10 @@ Os ícones de aplicação representam uma imagem exclusiva e imediatamente recon
 
 ![Exemplo de Ícone de Aplicação](~@source/assets/images/icons-sample-application.png)
 
-No contexto da Web, também são usados principalmente para reconhecer e iniciar sua aplicação a partir de atalhos, como em uma _app drawer_ compartilhada entre vários sistemas, e também para identificar a aplicação onde quer que ele apareça no navegador, como na barra de títulos, na lista de favoritos, no histórico de navegação, etc.
+No contexto da _web_, também são usados principalmente para reconhecer e iniciar sua aplicação a partir de atalhos, como em uma _app drawer_ compartilhada entre vários sistemas, e também para identificar a aplicação onde quer que ele apareça no navegador, como na barra de títulos, na lista de favoritos, no histórico de navegação, etc.
 
 ::: warning Atenção
-Para máxima compatibilidade em diferentes dispositivos e plataformas, aplicações Web modernas devem conter vários _assets_ de ícones, em formatos e tamanhos variados, bem como arquivos de manifesto e importações corretamente realizadas nas páginas Web, para que sejam apresentados conforme esperado em cada cenário. Uma ferramenta como [Real Favicon Generator](https://realfavicongenerator.net/) pode ser de grande auxílio.
+Para máxima compatibilidade em diferentes dispositivos e plataformas, aplicações _web_ modernas devem conter vários _assets_ de ícones, em formatos e tamanhos variados, bem como arquivos de manifesto e importações corretamente realizadas nas páginas _web_, para que sejam apresentados conforme esperado em cada cenário. Uma ferramenta como [Real Favicon Generator](https://realfavicongenerator.net/) pode ser de grande auxílio.
 :::
 
 Em algumas situações, ícones de aplicação são simplesmente derivações de marcas já existentes, como é o caso do _favicon_ utilizado nos portais do CPS, diretamente derivado de seu logotipo descrito no [Manual de Identidade Visual](https://www.cps.sp.gov.br/asscom/manuais-assessoria-de-comunicacao/).
@@ -60,4 +60,4 @@ Conforme já explanado, este _design system_ recomenda fortemente o uso da bibli
 Utilizar ícones específicos em formato `SVG` de outras bibliotecas não é um problema em si, desde que respeitado o estilo visual. Mas isto não vale para o caso de importar bibliotecas de ícones inteiras (mesmo que em versão Web Font), pois o carregamento de diversas bibliotecas de ícones ao mesmo tempo seria um grave equívoco para o desempenho de carregamento da aplicação, para no final utilizar apenas alguns poucos ícones.
 :::
 
-Vale uma menção honrosa à a famosa biblioteca de ícones [Font Awesome](https://fontawesome.com/), recomendada pelo [Guia de Estilo Site CPS](https://cps.sp.gov.br/guia-estilo/). Embora tenha um visual agradável, similar ao que prega este _design system_, e seja muito utilizada em projetos pela Web, é uma biblioteca mais limitada, com pouco mais de 2 mil ícones gratuitos (e um foco grande em vender os outros ícones com a versão Pro). Além disso, mesmo a versão gratuita não tem uma licença tão permissiva quanto a biblioteca aqui recomendada.
+Vale uma menção honrosa à a famosa biblioteca de ícones [Font Awesome](https://fontawesome.com/), recomendada pelo [Guia de Estilo Site CPS](https://cps.sp.gov.br/guia-estilo/). Embora tenha um visual agradável, similar ao que prega este _design system_, e seja muito utilizada em projetos pela _web_, é uma biblioteca mais limitada, com pouco mais de 2 mil ícones gratuitos (e um foco grande em vender os outros ícones com a versão Pro). Além disso, mesmo a versão gratuita não tem uma licença tão permissiva quanto a biblioteca aqui recomendada.

@@ -2,7 +2,7 @@
 
 Uma barra de abas é uma maneira de exibir um conjunto de guias e seu respectivo conteúdo. São úteis para exibir várias sub-páginas de conteúdo de forma organizada dentro de uma interface, ao mesmo tempo em que dão ao usuário a capacidade de focar especificamente apenas na aba atualmente ativa no momento.
 
-Interfaces com abas aparecem nas aplicações em um de dois estilos distintos, que diferem em função e aparência: Abas estáticas, frequentemente encontradas em janelas de configurações, com um número definido de guias em uma ordem fixa e conteúdo predefinido; Abas dinâmicas, frequentemente de acordo com documentos abertos (como páginas em navegadores Web), onde os usuários podem criar, remover e reorganizar guias, movê-las entre janelas, e alterar o documento aberto atualmente na aba ativa.
+Interfaces com abas aparecem nas aplicações em um de dois estilos distintos, que diferem em função e aparência: Abas estáticas, frequentemente encontradas em janelas de configurações, com um número definido de guias em uma ordem fixa e conteúdo predefinido; Abas dinâmicas, frequentemente de acordo com documentos abertos (como páginas em navegadores _web_), onde os usuários podem criar, remover e reorganizar guias, movê-las entre janelas, e alterar o documento aberto atualmente na aba ativa.
 
 Com esta definição em mente, as abas descritas neste _design system_ são abas estáticas, visto que dentro de interfaces de sistemas, elas servem como organização de conteúdo previamente definido pelo desenvolvedor, ao invés de conteúdo dinâmico aberto pelo usuário.
 

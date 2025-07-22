@@ -48,7 +48,7 @@ Um campo seletor de cor pode não ser "limpável", ou seja, o [Chip](./chip.md) 
 
 A interface do seletor de cores é muito similar, visualmente e comportamentalmente, à interface nativa de seleção de cores do Windows, facilmente observável no aplicativo nativo Microsoft Paint. As três diferenças fundamentais são:
 - Campo [SliderField](./slider-field.md) para seleção do nível de opacidade (ou transparência) da cor. Inclusive, este é um elemento opcional, podendo não ser utilizado em casos onde a cor a ser informada pelo usuário deva ser sempre opaca, sem variações de opacidade.
-- Campo [TextField](./text-field.md) para apresentação e edição facilitada da cor atualmente selecionada em formato hexadecimal, o formato típico de definição de cores na Web e, portanto, uma forma útil para permitir que usuários possam copiar e colar rapidamente cores "prontas".
+- Campo [TextField](./text-field.md) para apresentação e edição facilitada da cor atualmente selecionada em formato hexadecimal, o formato típico de definição de cores na _web_ e, portanto, uma forma útil para permitir que usuários possam copiar e colar rapidamente cores "prontas".
 - Campo [DropdownField](./dropdown-field.md) para permitir alternar entre o formato de exibição decomposto em `RGBA` (visualização padrão baseada nos níveis de _red_, _green_, _blue_, e _alpha_) ou `HSLA` (visualização alternativa baseada nos níveis de _hue_, _saturation_, _light_, e _alpha_).
 
 ### Acessibilidade
