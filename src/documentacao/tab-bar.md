@@ -6,6 +6,8 @@ Interfaces com abas aparecem nas aplicações em um de dois estilos distintos, q
 
 Com esta definição em mente, as abas descritas neste _design system_ são abas estáticas, visto que dentro de interfaces de sistemas, elas servem como organização de conteúdo previamente definido pelo desenvolvedor, ao invés de conteúdo dinâmico aberto pelo usuário.
 
+<LinkToCpsElements name="tab-group" />
+
 ## Variações
 
 Este componente não exige a documentação de variações, apenas se adaptando ao modo de cor em uso. Entretanto, trata-se de um componente composto, visto que a barra de abas em si é _container_, e cada botão de guia que compõe a barra é como um sub-componente com seus próprios estados. Desta forma, ambos serão documentados aqui em mais detalhes.

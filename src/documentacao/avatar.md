@@ -4,6 +4,8 @@ Uma avatar é uma representação visual de uma pessoa, exibido em uma caixa tot
 
 Normalmente exibe-se a imagem que a própria pessoa escolheu ao fazer _upload_ como seu avatar (também chamada de imagem de perfil), mas se adapta para exibir iniciais a partir do nome, ao invés de uma imagem caso necessário, ou ainda um ícone de usuário padrão caso não seja possível exibir iniciais.
 
+<LinkToCpsElements name="avatar" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

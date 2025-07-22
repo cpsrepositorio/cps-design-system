@@ -4,6 +4,8 @@ Usar distintivos (_badges_) é uma maneira não intrusiva e intuitiva de exibir 
 
 Distintivos podem ser mínimos "pontinhos" acima de algum elemento da interface, como em um ícone de notificações, também podem ser um pouco maiores e exibirem seu próprio ícone dentro de sua área circular, ou ainda podem se expandir conforme a necessidade para acomodar valores numéricos, por exemplo, para exibir quantos registros estão sendo impactados por aquela informação de estado apresentada pelo distintivo atrelado.
 
+<LinkToCpsElements name="badge" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

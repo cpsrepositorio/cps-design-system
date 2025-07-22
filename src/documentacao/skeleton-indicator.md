@@ -4,6 +4,8 @@ O indicador esqueleto é assim denominado por representar apenas o esqueleto de 
 
 Comumente, os _containers_ principais e componentes superiores do _layout_, independentes de dados, podem ser exibidos desde o carregamento da tela em seus locais corretos, e então os pedaços menores e internos podem ser carregados enquanto seus esqueletos ficam visíveis temporariamente.
 
+<LinkToCpsElements name="skeleton" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

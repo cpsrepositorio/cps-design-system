@@ -6,6 +6,8 @@ Barras de notificação são utilizadas para exibir mensagens de _status_ sobre 
 
 Além de não cobrirem a maior parte do conteúdo da tela, normalmente barras de notificação são efêmeras, desaparecendo automaticamente após alguns segundos, além de poderem ser explicitamente fechadas pelo usuário. Eventualmente pode ser interessante exibir algum botão de ação em uma barra de notificação, sendo que a existência do botão pode ou não alterar o comportamento da barra poder ser fechada ou não.
 
+<LinkToCpsElements name="notification" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

@@ -4,6 +4,10 @@ Um caixa numérica é uma espécie de variação do [TextField](./text-field.md)
 
 Este componente não é relevante somente para exibição e edição de números inteiros, podendo também ser adaptado à utilização para números com casa decimal, cabendo ao desenvolvedor definir o `step` dos valores a cada utilização dos botões de incremento e decremento conforme a funcionalidade que mais puder agregar à usabilidade. Isto é, mantendo incrementos e decrementos em de um em um, ou utilizando incrementos e decrementos nas casas decimais.
 
+<LinkToCpsElements name="input">
+  <p>Assim como uma caixa de entrada nativa, este componente é ajustado para atender tal caso de uso, bastando utilizá-lo com <code>type</code> igual a <code>number</code>.</p>
+</LinkToCpsElements>
+
 ## Variações
 
 Este componente não exige a documentação de variações, apenas se adaptando ao modo de cor em uso.

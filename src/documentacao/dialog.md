@@ -2,6 +2,8 @@
 
 As caixa de diálogo são sobreposições de interface do usuário que fornecem informações contextuais com foco total. Bloqueiam as interações com o restante da página, através da utilização de uma camada de material [esfumaçado](../guia-visual/camadas-e-materiais.md#esfumaçado). Muitas vezes solicitam algum tipo de ação do usuário, como a resposta de uma confirmação.
 
+<LinkToCpsElements name="dialog" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

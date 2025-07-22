@@ -4,6 +4,8 @@ Um painel flutuante é uma espécie de componente misto, integrando a experiênc
 
 Painéis flutuantes são úteis em várias situações, por exemplo, exibir dados detalhados após selecionar um registro em uma tabela, oferecer um conjunto de filtros a serem escolhidos antes da exportação de um relatório, disponibilizar um pequeno conjunto de campos para atualização de algum registro que não exige uma interface grande e complexa.
 
+<LinkToCpsElements name="drawer" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

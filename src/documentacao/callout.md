@@ -2,9 +2,13 @@
 
 Uma chamada de destaque (_callout_) é um tipo de dica flutuante ancorada a um elemento, a qual pode ser usada para ensinar usuários ou orientá-los pela aplicação, normalmente sem bloquear completamente a interface em volta.
 
-Alguns _design system_ nomeiam este componente como termos abstratos como "pulo sobre" (_popover_) ou "balão de ensino" (_teaching bubble_), enquanto outros o consideram uma variação de dica de ferramenta (_tooltip_).
+Alguns _design system_ nomeiam este componente com termos abstratos como "pulo sobre" (_popover_), "voo para fora" (_flyout_), ou "balão de ensino" (_teaching bubble_), enquanto outros o consideram uma variação de dica de ferramenta (_tooltip_). Em nossa concepção, todos estes casos de uso podem ser válidos e são factivelmente representáveis por uma única especificação, a qual optamos por chamar de _callout_ ou de _flyout_.
 
-Entretanto, embora o _callout_ possa ser considerado um tipo de _tooltip_ e, portanto, poderia ser usado também desta forma neste _design system_, recomendamos o uso de dicas de ferramenta nativas do navegador _web_ (atributo `title` do HTML), pois se integram melhor ao Sistema Operacional em uso e possui lógica embutida de posicionamento dinâmico.
+<LinkToCpsElements name="flyout" utility />
+
+Evidentemente, um dos casos de uso mais comuns de um _callout_ é justamente servir como uma dica de ferramenta (_tooltip_). Embora o uso de dicas de ferramenta nativas do navegador _web_ (atributo `title` do HTML) seja válido e ofereça excelente acessibilidade por padrão, uma apresentação personalizada, desde que possua apropriada lógica de posicionamento dinâmico, também é aceita por este _design system_.
+
+<LinkToCpsElements name="tooltip" />
 
 ## Variações
 

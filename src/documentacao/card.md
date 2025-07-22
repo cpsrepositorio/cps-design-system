@@ -2,6 +2,8 @@
 
 Um cartão de conteúdo (_card_) é um dos elementos mais recorrentes para organização do _layout_ em aplicações modernas, variando em utilização com diversas possíveis disposições de conteúdo interno. Neste _design system_, eles se encaixam especialmente bem tanto em camadas de [Material Opaco](../guia-visual/camadas-e-materiais.html#opaco) quanto em camadas de [Material Acrílico](../guia-visual/camadas-e-materiais.html#acrilico).
 
+<LinkToCpsElements name="card" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

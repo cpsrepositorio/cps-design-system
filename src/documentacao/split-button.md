@@ -4,6 +4,8 @@ Um botão dividido é uma espécie de variação do [Button](./button.md) comum,
 
 Muito comum em barras de tarefas, inclusive em variações apenas com ícone, ou com texto e ícone, é um tipo de usabilidade de conhecimento quase generalizado, por causa de _softwares_ como Word e Excel. Também é eventualmente utilizado em outros cenários, por exemplo, para designar uma ação principal de busca de dados em uma tabela, e ações secundárias oferecendo outros comportamentos de busca menos utilizados.
 
+<LinkToCpsElements name="split-button" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

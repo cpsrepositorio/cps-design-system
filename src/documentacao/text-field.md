@@ -6,6 +6,8 @@ Caixas de texto também pode ser estendidas, a fim de simplificar a entrada de t
 
 Pelo nível de especificidade, algumas destas variações acabam sendo consideradas componentes distintos, como [NumberField](./number-field.md) e [DateField](./date-field.md), mantendo-se neste documento apenas as variações mais sutis e que não modificam fortemente o comportamento padrão da caixa de texto.
 
+<LinkToCpsElements name="input" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

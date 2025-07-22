@@ -4,7 +4,13 @@ Um indicador de progresso fornece _feedback_ ao usuário de que uma operação d
 
 Interfaces gráficas modernas evitam o chamado _layout shift_, quando os blocos de conteúdo são totalmente alterados por causa do carregamento de dados ou situações de espera por resposta. Desta forma, o uso de indicadores de progresso tem sido reduzido, preferindo-se o uso de [SkeletonIndicator](./skeleton-indicator.md).
 
-Ainda assim, indicadores de progresso permanecem sendo comumente usados em duas variações, em situações diversas dependendo da variação, conforme descrito a seguir.
+Ainda assim, indicadores de progresso permanecem sendo usados em duas variações, a depender do caso. A mais típica é como uma barra de progresso.
+
+<LinkToCpsElements name="progress" />
+
+Outro caso de uso, mais pontual e menos recorrente, trata-se da apresentação como um anel de progresso, também chamado de _spinner_.
+
+<LinkToCpsElements name="spinner" />
 
 ## Variações
 

@@ -4,6 +4,10 @@ Um campo seletor de data (_date field_) é um tipo de componente de entrada de d
 
 Vale ressaltar que campos de seleção de datas atuam da mesma forma que outros campos de entrada de dados em um formulário, portanto também podem exibir rótulo antes da caixa, e também devem reagir a estado `:invalid` caso não passem por alguma validação de dados na tela, todos os mesmos comportamentos descritos para o [TextField](./text-field.md).
 
+<LinkToCpsElements name="input">
+  <p>Embora ele não tenha sido especificamente criado para atender esta especificação de <i>date field</i>, utilizá-lo com <code>type</code> igual a <code>date</code>, <code>datetime-local</code>, <code>time</code> ou <code>week</code> deve atender às necessidades mais comuns.</p>
+</LinkToCpsElements>
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

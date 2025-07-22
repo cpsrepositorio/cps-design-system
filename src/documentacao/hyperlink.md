@@ -2,6 +2,8 @@
 
 Os famosos _hyperlinks_, eventualmente também conhecidos em português como âncoras, dispensam apresentações. Embora não sejam tão recorrentes em sistemas internos quanto em _websites_ em geral, eventualmente servem como boas ferramentas para transitar o usuário de um conteúdo para outro, principalmente quando esta interligação ocorre através de palavras em meio a textos.
 
+<LinkToCpsElements name="link" />
+
 ## Variações
 
 Este componente não possui variações, apenas se adaptando ao modo de cor em uso.

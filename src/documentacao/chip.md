@@ -4,6 +4,8 @@ O termo _chip_ poderia ser traduzido como "lasca", um nome um pouco estranho, ma
 
 Significado e semântica à parte, a utilização prática deste componente é apresentar peças de informação que precisam se destacar no contexto que estão inseridas, por exemplo, um filtro aplicado em uma interface de visualização de dados, ou uma categoria ou rótulo de identificação atribuído a um registro.
 
+<LinkToCpsElements name="chip" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

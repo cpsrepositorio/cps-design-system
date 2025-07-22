@@ -2,6 +2,10 @@
 
 Os menus contextuais são painéis flutuantes, usualmente com listas de comandos, baseados no contexto de exibição, foco do _mouse_ e/ou foco do teclado. Eles são uma das áreas de comandos mais eficazes e largamente utilizadas, aparecendo em vários lugares de uma aplicação, desde listas de opções dentro de caixas de seleção, a menus de contexto personalizados acionados ao clicar-se com o botão direito do _mouse_.
 
+<LinkToCpsElements name="menu">
+  <p>Vale ressaltar que, embora visualmente o componente <code>CpsMenu</code> atenda diretamente esta documentação, para que seja utilizado como menu de contexto acionado por outros elementos, é relevante visitar também a documentação sobre o utilitário <a href="https://cpsrepositorio.github.io/cps-elements/#/utilitários/flyout" target="_blank" rel="noopener noreferrer" style="margin-right: 0.25rem">CpsFlyout<span> <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>.</p>
+</LinkToCpsElements>
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

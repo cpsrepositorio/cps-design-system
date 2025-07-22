@@ -4,6 +4,8 @@ Um botão de alternância é uma espécie de variação do [Button](./button.md)
 
 Muito comum em barras de tarefas, inclusive em variações apenas com ícone, ou com texto e ícone, é um tipo de usabilidade de conhecimento quase generalizado, por causa de _softwares_ como Word e Excel. Também é eventualmente utilizado em grupos, quando selecionar um dos botões do grupo automaticamente de-seleciona os outros, como um mecanismo de alternância de ações na interface.
 
+<LinkToCpsElements name="toggle-button" />
+
 ## Variações
 
 Este componente não exige a documentação de variações, apenas se adaptando ao modo de cor em uso. No mais, as mesmas possibilidades de um [Button](./button.md) comum também se aplicam, como o uso de ícone junto ao texto, ou o uso apenas de ícone.

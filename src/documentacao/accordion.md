@@ -4,6 +4,8 @@ Um _accordion_ é um conjunto de cabeçalhos interativos empilhados verticalment
 
 São comumente usados para reduzir a necessidade de rolar a página ao apresentar várias seções de conteúdo em um espaço vertical limitado, ou simplesmente como mecanismos de agrupamento de informações de forma organizada.
 
+<LinkToCpsElements name="accordion" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

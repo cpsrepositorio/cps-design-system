@@ -6,6 +6,8 @@ Assim como os campos de lista suspensa, campos de seleção múltipla são norma
 
 Vale ressaltar que campos de seleção múltipla atuam da mesma forma que outros campos de entrada de dados em um formulário, portanto também podem exibir rótulo antes da caixa, e também devem reagir a estado `:invalid` caso não passem por alguma validação de dados na tela, todos os mesmos comportamentos descritos para o [TextField](./text-field.md).
 
+<LinkToCpsElements name="select" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

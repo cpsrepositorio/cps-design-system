@@ -4,9 +4,11 @@ Os campos de seleção oferecem aos usuários uma maneira de selecionar um ou ma
 
 São elementos frequentemente utilizados em diversas situações, como listas de opções em formulários, questionários, telas de configuração, dentre outros cenários diversos.
 
-::: tip Curiosidade
+<LinkToCpsElements name="checkbox" />
+
 Em inglês, os botões de opção são chamados de _radio buttons_ pois foram inspirados nos botões físicos de aparelhos de rádio antigos, onde havia botões para alternar entre estações de rádio pré-definidas. Ao se pressionar um botão, outro que estivesse pressionado antes "saltava" de volta para fora, para seu estado não selecionado. Este comportamento é metaforicamente percebido em grupos de botões de opção em interfaces digitais.
-:::
+
+<LinkToCpsElements name="radio" />
 
 ## Variações
 

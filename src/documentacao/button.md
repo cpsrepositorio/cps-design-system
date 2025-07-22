@@ -2,6 +2,8 @@
 
 Um botão dá ao usuário uma maneira de acionar uma ação imediata, certamente um dos componentes mais utilizados em diversos tipos de aplicações. Alguns botões são especializados para tarefas específicas, como navegação, ações direcionadas ou apresentação de menus.
 
+<LinkToCpsElements name="button" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

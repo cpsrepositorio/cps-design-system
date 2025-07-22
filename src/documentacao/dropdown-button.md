@@ -4,6 +4,8 @@ Um botão de lista suspensa (_dropdown_) é componente de aproveitamento de espa
 
 É fundamentalmente muito similar a um [DropdownField](./dropdown-field.md), entretanto exibe a aparência básica de um [Button](./button.md) padrão, em suas cores, dimensões e cantos arredondados. Portanto, é o elemento ideal para representar ações que resultem em listas suspensas, enquanto a caixa de lista suspensa é ideal para ser inserida em meio a outros campos de entrada de dados, como em um formulário.
 
+<LinkToCpsElements name="dropdown" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.

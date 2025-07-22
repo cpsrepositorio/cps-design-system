@@ -4,6 +4,8 @@ Separadores são elementos de interface simples, porém recorrentes, evidente ut
 
 Este é um caso de componente primitivo, que além de poder ser utilizado diretamente pelos desenvolvedores, outros componentes também o utilizam, como [Card](./card.md) quando necessário separar cabeçalho e botões do conteúdo, ou [FloatingPanel](./floating-panel.md) também para separar cabeçalho e botões do conteúdo.
 
+<LinkToCpsElements name="separator" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.
