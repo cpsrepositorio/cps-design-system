@@ -16,11 +16,11 @@ Por ocupar bastante espaço horizontal, não é um _layout_ adequado para resolu
 
 A aparência desta variação em modo claro:
 
-![SideNavigation - Modo Claro - Padrão](~@source/assets/images/component-sidenavigation-light-standard.png)
+![SideNavigation - Modo Claro - Padrão](../assets/images/component-sidenavigation-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![SideNavigation - Modo Escuro - Padrão](~@source/assets/images/component-sidenavigation-dark-standard.png)
+![SideNavigation - Modo Escuro - Padrão](../assets/images/component-sidenavigation-dark-standard.png)
 
 ### Contraído
 
@@ -30,11 +30,11 @@ Alguns sistemas preferem adotar a postura permitir que o usuário escolha qual v
 
 A aparência desta variação em modo claro:
 
-![SideNavigation - Modo Claro - Contraído](~@source/assets/images/component-sidenavigation-light-collapsed.png)
+![SideNavigation - Modo Claro - Contraído](../assets/images/component-sidenavigation-light-collapsed.png)
 
 A aparência desta variação em modo escuro:
 
-![SideNavigation - Modo Escuro - Contraído](~@source/assets/images/component-sidenavigation-dark-collapsed.png)
+![SideNavigation - Modo Escuro - Contraído](../assets/images/component-sidenavigation-dark-collapsed.png)
 
 ## Boas práticas
 

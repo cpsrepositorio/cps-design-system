@@ -18,11 +18,11 @@ Uma barra de notificação informativa é a aparência padrão deste componente,
 
 A aparência desta variação em modo claro:
 
-![ToastNotification - Modo Claro - Informativo](~@source/assets/images/component-toastnotification-light-information.png)
+![ToastNotification - Modo Claro - Informativo](../assets/images/component-toastnotification-light-information.png)
 
 A aparência desta variação em modo escuro:
 
-![ToastNotification - Modo Escuro - Informativo](~@source/assets/images/component-toastnotification-dark-information.png)
+![ToastNotification - Modo Escuro - Informativo](../assets/images/component-toastnotification-dark-information.png)
 
 ### Alerta
 
@@ -32,11 +32,11 @@ A aparência desta variação em modo claro:
 
 A aparência desta variação em modo claro:
 
-![ToastNotification - Modo Claro - Alerta](~@source/assets/images/component-toastnotification-light-warning.png)
+![ToastNotification - Modo Claro - Alerta](../assets/images/component-toastnotification-light-warning.png)
 
 A aparência desta variação em modo escuro:
 
-![ToastNotification - Modo Escuro - Alerta](~@source/assets/images/component-toastnotification-dark-warning.png)
+![ToastNotification - Modo Escuro - Alerta](../assets/images/component-toastnotification-dark-warning.png)
 
 ### Crítico
 
@@ -44,11 +44,11 @@ Uma notificação crítica chama a maior atenção possível do usuário e está
 
 A aparência desta variação em modo claro:
 
-![ToastNotification - Modo Claro - Crítico](~@source/assets/images/component-toastnotification-light-critical.png)
+![ToastNotification - Modo Claro - Crítico](../assets/images/component-toastnotification-light-critical.png)
 
 A aparência desta variação em modo escuro:
 
-![ToastNotification - Modo Escuro - Crítico](~@source/assets/images/component-toastnotification-dark-critical.png)
+![ToastNotification - Modo Escuro - Crítico](../assets/images/component-toastnotification-dark-critical.png)
 
 ### Sucesso
 
@@ -56,11 +56,11 @@ O extremo oposto de uma notificação crítica é sua variação de sucesso, a q
 
 A aparência desta variação em modo claro:
 
-![ToastNotification - Modo Claro - Sucesso](~@source/assets/images/component-toastnotification-light-success.png)
+![ToastNotification - Modo Claro - Sucesso](../assets/images/component-toastnotification-light-success.png)
 
 A aparência desta variação em modo escuro:
 
-![ToastNotification - Modo Escuro - Sucesso](~@source/assets/images/component-toastnotification-dark-success.png)
+![ToastNotification - Modo Escuro - Sucesso](../assets/images/component-toastnotification-dark-success.png)
 
 ## Boas práticas
 

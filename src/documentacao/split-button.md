@@ -16,11 +16,11 @@ A variação padrão deste componente representa seu estado de repouso, oferecen
 
 A aparência desta variação em modo claro:
 
-![SplitButton - Modo Claro - Padrão](~@source/assets/images/component-splitbutton-light-standard.png)
+![SplitButton - Modo Claro - Padrão](../assets/images/component-splitbutton-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![SplitButton - Modo Escuro - Padrão](~@source/assets/images/component-splitbutton-dark-standard.png)
+![SplitButton - Modo Escuro - Padrão](../assets/images/component-splitbutton-dark-standard.png)
 
 
 ### Aberto
@@ -29,11 +29,11 @@ Esta variação é automaticamente acessada ao se acionar a área menor à direi
 
 A aparência desta variação em modo claro:
 
-![SplitButton - Modo Claro - Aberto](~@source/assets/images/component-splitbutton-light-open.png)
+![SplitButton - Modo Claro - Aberto](../assets/images/component-splitbutton-light-open.png)
 
 A aparência desta variação em modo escuro:
 
-![SplitButton - Modo Escuro - Aberto](~@source/assets/images/component-splitbutton-dark-open.png)
+![SplitButton - Modo Escuro - Aberto](../assets/images/component-splitbutton-dark-open.png)
 
 ## Boas práticas
 

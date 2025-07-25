@@ -22,11 +22,11 @@ A variação em forma de barra de progresso é comumente usada em operações de
 
 A aparência desta variação em modo claro, com seus diferentes estados:
 
-![ProgressIndicator - Modo Claro - Barra de progresso](~@source/assets/images/component-progressindicator-light-bar.png)
+![ProgressIndicator - Modo Claro - Barra de progresso](../assets/images/component-progressindicator-light-bar.png)
 
 A aparência desta variação em modo escuro, com seus diferentes estados:
 
-![ProgressIndicator - Modo Escuro - Barra de progresso](~@source/assets/images/component-progressindicator-dark-bar.png)
+![ProgressIndicator - Modo Escuro - Barra de progresso](../assets/images/component-progressindicator-dark-bar.png)
 
 ### Anel de progresso
 
@@ -34,11 +34,11 @@ A variação em forma de anel de progresso é comumente usada dentro de outros e
 
 A aparência desta variação em modo claro:
 
-![ProgressIndicator - Modo Claro - Anel de progresso](~@source/assets/images/component-progressindicator-light-ring.png)
+![ProgressIndicator - Modo Claro - Anel de progresso](../assets/images/component-progressindicator-light-ring.png)
 
 A aparência desta variação em modo escuro:
 
-![ProgressIndicator - Modo Escuro - Anel de progresso](~@source/assets/images/component-progressindicator-dark-ring.png)
+![ProgressIndicator - Modo Escuro - Anel de progresso](../assets/images/component-progressindicator-dark-ring.png)
 
 ## Boas práticas
 

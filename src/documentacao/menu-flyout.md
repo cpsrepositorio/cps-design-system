@@ -16,11 +16,11 @@ O menu contextual padrão é a variação mais recorrente em uma aplicação, se
 
 A aparência desta variação em modo claro:
 
-![MenuFlyout - Modo Claro - Padrão](~@source/assets/images/component-menuflyout-light-standard.png)
+![MenuFlyout - Modo Claro - Padrão](../assets/images/component-menuflyout-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![MenuFlyout - Modo Escuro - Padrão](~@source/assets/images/component-menuflyout-dark-standard.png)
+![MenuFlyout - Modo Escuro - Padrão](../assets/images/component-menuflyout-dark-standard.png)
 
 ### Selecionável
 
@@ -28,11 +28,11 @@ Esta variação é utilizada quando um dos itens da lista de comandos existente 
 
 A aparência desta variação em modo claro:
 
-![MenuFlyout - Modo Claro - Selecionável](~@source/assets/images/component-menuflyout-light-selectable.png)
+![MenuFlyout - Modo Claro - Selecionável](../assets/images/component-menuflyout-light-selectable.png)
 
 A aparência desta variação em modo escuro:
 
-![MenuFlyout - Modo Escuro - Selecionável](~@source/assets/images/component-menuflyout-dark-selectable.png)
+![MenuFlyout - Modo Escuro - Selecionável](../assets/images/component-menuflyout-dark-selectable.png)
 
 ### Seleção Múltipla
 
@@ -40,11 +40,11 @@ Esta variação é utilizada com menos frequência e possui uma usabilidade mais
 
 A aparência desta variação em modo claro:
 
-![MenuFlyout - Modo Claro - Seleção Múltipla](~@source/assets/images/component-menuflyout-light-multiselect.png)
+![MenuFlyout - Modo Claro - Seleção Múltipla](../assets/images/component-menuflyout-light-multiselect.png)
 
 A aparência desta variação em modo escuro:
 
-![MenuFlyout - Modo Escuro - Seleção Múltipla](~@source/assets/images/component-menuflyout-dark-multiselect.png)
+![MenuFlyout - Modo Escuro - Seleção Múltipla](../assets/images/component-menuflyout-dark-multiselect.png)
 
 ## Boas práticas
 

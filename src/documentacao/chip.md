@@ -16,11 +16,11 @@ Em sua variação mais básica, se utiliza apenas de uma leve borda e fundo suti
 
 A aparência desta variação em modo claro:
 
-![Chip - Modo Claro - Padrão](~@source/assets/images/component-chip-light-default.png)
+![Chip - Modo Claro - Padrão](../assets/images/component-chip-light-default.png)
 
 A aparência desta variação em modo escuro:
 
-![Chip - Modo Escuro - Padrão](~@source/assets/images/component-chip-dark-default.png)
+![Chip - Modo Escuro - Padrão](../assets/images/component-chip-dark-default.png)
 
 ### Descartável
 
@@ -28,11 +28,11 @@ Nesta variação, um pequeno botão com ícone de "fechar" é acrescido após o 
 
 A aparência desta variação em modo claro:
 
-![Chip - Modo Claro - Descartável](~@source/assets/images/component-chip-light-closeable.png)
+![Chip - Modo Claro - Descartável](../assets/images/component-chip-light-closeable.png)
 
 A aparência desta variação em modo escuro:
 
-![Chip - Modo Escuro - Descartável](~@source/assets/images/component-chip-dark-closeable.png)
+![Chip - Modo Escuro - Descartável](../assets/images/component-chip-dark-closeable.png)
 
 ## Boas práticas
 

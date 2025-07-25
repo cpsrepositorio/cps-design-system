@@ -18,11 +18,11 @@ A barra de abas apresenta seus botões de guia no topo, bem como a área abaixo 
 
 A aparência deste componente em modo claro:
 
-![TabBar - Modo Claro - Barra de abas](~@source/assets/images/component-tabbar-light.png)
+![TabBar - Modo Claro - Barra de abas](../assets/images/component-tabbar-light.png)
 
 A aparência deste componente em modo escuro:
 
-![TabBar - Modo Escuro - Barra de abas](~@source/assets/images/component-tabbar-dark.png)
+![TabBar - Modo Escuro - Barra de abas](../assets/images/component-tabbar-dark.png)
 
 ### Botão de guia
 
@@ -30,11 +30,11 @@ Cada opção dentro de uma barra de abas é um botão de guia, o qual possui alg
 
 A aparência deste componente em modo claro:
 
-![TabBar - Modo Claro - Botão de guia](~@source/assets/images/component-tabbar-light-item.png)
+![TabBar - Modo Claro - Botão de guia](../assets/images/component-tabbar-light-item.png)
 
 A aparência deste componente em modo escuro:
 
-![TabBar - Modo Escuro - Botão de guia](~@source/assets/images/component-tabbar-dark-item.png)
+![TabBar - Modo Escuro - Botão de guia](../assets/images/component-tabbar-dark-item.png)
 
 ## Boas práticas
 

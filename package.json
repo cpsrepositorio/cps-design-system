@@ -1,6 +1,6 @@
 {
   "name": "cps-design-system",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Documentação do Design System Corporativo do CPS",
   "main": "index.js",
   "authors": {
@@ -9,18 +9,25 @@
   },
   "repository": "https://github.com/cpsrepositorio/cps-design-system/cps-design-system",
   "scripts": {
-    "dev": "nodemon --ext js,md,vue --watch . --exec yarn vuepress dev src",
+    "dev": "vuepress dev src",
     "build": "vuepress build src",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d src/.vuepress/dist"
   },
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.9.10",
-    "@vuepress/plugin-back-to-top": "^1.9.10",
-    "@vuepress/plugin-medium-zoom": "^1.9.10",
+    "@vuepress/bundler-vite": "^2.0.0-rc.24",
+    "@vuepress/plugin-active-header-links": "^2.0.0-rc.112",
+    "@vuepress/plugin-back-to-top": "^2.0.0-rc.112",
+    "@vuepress/plugin-catalog": "^2.0.0-rc.112",
+    "@vuepress/plugin-copy-code": "^2.0.0-rc.112",
+    "@vuepress/plugin-markdown-image": "^2.0.0-rc.112",
+    "@vuepress/plugin-medium-zoom": "^2.0.0-rc.112",
+    "@vuepress/plugin-register-components": "^2.0.0-rc.112",
+    "@vuepress/theme-default": "^2.0.0-rc.112",
     "gh-pages": "^6.3.0",
     "nodemon": "^3.1.10",
-    "vuepress": "^1.9.10"
+    "sass-embedded": "^1.89.2",
+    "vuepress": "^2.0.0-rc.24"
   }
 }

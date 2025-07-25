@@ -12,11 +12,11 @@ Passível de ser considerada a variação padrão de um calendário, por ser sua
 
 A aparência desta variação em modo claro:
 
-![Calendar - Modo Claro - Diário](~@source/assets/images/component-calendar-light-daily.png)
+![Calendar - Modo Claro - Diário](../assets/images/component-calendar-light-daily.png)
 
 A aparência desta variação em modo escuro:
 
-![Calendar - Modo Escuro - Diário](~@source/assets/images/component-calendar-dark-daily.png)
+![Calendar - Modo Escuro - Diário](../assets/images/component-calendar-dark-daily.png)
 
 Os botões de navegação entre meses podem ser escondidos, no caso de um calendário estático somente para visualização. Entretanto, no caso de um calendário habilitado para seleção de uma ou mais datas, clicar/tocar no cabeçalho do componente (no nome do mês atualmente visível) deve alternar o calendário para a próxima variação, para permitir visualizar todos os meses.
 
@@ -26,11 +26,11 @@ Esta variação do calendário não é utilizada com frequência como sua visual
 
 A aparência desta variação em modo claro:
 
-![Calendar - Modo Claro - Mensal](~@source/assets/images/component-calendar-light-monthly.png)
+![Calendar - Modo Claro - Mensal](../assets/images/component-calendar-light-monthly.png)
 
 A aparência desta variação em modo escuro:
 
-![Calendar - Modo Escuro - Mensal](~@source/assets/images/component-calendar-dark-monthly.png)
+![Calendar - Modo Escuro - Mensal](../assets/images/component-calendar-dark-monthly.png)
 
 Os botões de navegação entre anos podem ser escondidos, no caso de um calendário estático somente para visualização. Entretanto, no caso de um calendário habilitado para seleção de um ou mais meses, clicar/tocar no cabeçalho do componente (no nome do mês atualmente visível) deve alternar o calendário para a próxima variação, para permitir visualizar vários anos de uma única vez.
 
@@ -40,11 +40,11 @@ Esta variação do calendário não é utilizada com frequência como sua visual
 
 A aparência desta variação em modo claro:
 
-![Calendar - Modo Claro - Anual](~@source/assets/images/component-calendar-light-yearly.png)
+![Calendar - Modo Claro - Anual](../assets/images/component-calendar-light-yearly.png)
 
 A aparência desta variação em modo escuro:
 
-![Calendar - Modo Escuro - Anual](~@source/assets/images/component-calendar-dark-yearly.png)
+![Calendar - Modo Escuro - Anual](../assets/images/component-calendar-dark-yearly.png)
 
 Os botões de navegação entre décadas podem ser escondidos, no caso de um calendário estático somente para visualização. Entretanto, no caso de um calendário habilitado para seleção de um ou mais anos, clicar/tocar no cabeçalho do componente (no nome da década atualmente visível) deve alternar o calendário de volta para a variação anterior, para permitir voltar a visualizar meses do ano atualmente selecionado (ou do ano corrente, na falta de um ano selecionado).
 

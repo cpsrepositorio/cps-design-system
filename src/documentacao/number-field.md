@@ -14,11 +14,11 @@ Este componente não exige a documentação de variações, apenas se adaptando 
 
 A aparência em modo claro:
 
-![NumberField - Modo Claro - Padrão](~@source/assets/images/component-numberfield-light.png)
+![NumberField - Modo Claro - Padrão](../assets/images/component-numberfield-light.png)
 
 A aparência em modo escuro:
 
-![NumberField - Modo Escuro - Padrão](~@source/assets/images/component-numberfield-dark.png)
+![NumberField - Modo Escuro - Padrão](../assets/images/component-numberfield-dark.png)
 
 ## Boas práticas
 

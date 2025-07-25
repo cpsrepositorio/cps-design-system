@@ -10,11 +10,11 @@ Para resolver este desafio, o **CPS Design System** se utiliza de um sistema com
 
 Um exemplo de uso observa-se através de uma estrutura de navegação típica de sistemas internos, onde área de cabeçalho e área de menu lateral seriam demarcadas com a camada base, enquanto o conteúdo dinâmico e mutável e cada tela do sistema seria demarcado pela camada de conteúdo.
 
-![Visão Geral das Camadas](~@source/assets/images/layers-overview.png)
+![Visão Geral das Camadas](../assets/images/layers-overview.png)
 
 Em alguns casos especiais, como interfaces de acesso (_login_), a camada base pode ser limpa de qualquer conteúdo de navegação, passando-se a camada de conteúdo para uma posição centralizada de destaque.
 
-![Camada de Conteúdo Centralizada](~@source/assets/images/layers-content-centered.png)
+![Camada de Conteúdo Centralizada](../assets/images/layers-content-centered.png)
 
 # Materiais
 
@@ -24,7 +24,7 @@ Além da separação geral em duas camadas, alguns cenários requerem a utiliza�
 
 O material opaco costuma ser o mais comum ao longo das interfaces e, como o nome indica, trata-se da utilização de cores sólidas sem deixar transparecer qualquer coisa por trás. As própria camada base citada anteriormente costuma ser um material opaco em tom de cinza leve, conforme a paleta de tons neutros disponível em [Cores](./cores.md).
 
-![Exemplos de Material Opaco](~@source/assets/images/materials-opaque.png)
+![Exemplos de Material Opaco](../assets/images/materials-opaque.png)
 
 ## Translúcido
 
@@ -45,13 +45,13 @@ Observe a caixa à esquerda, com borda opaca em cinza médio (`#b2b2b2`) aplicad
 
 Outro elementos do **CPS Design System** também se utilizam de variações de transparência para efeitos diversos, por exemplo, botões em estado _hover_ possuem cor de fundo com `90%` de opacidade, enquanto botões pressionados se utilizam da mesma cor mas com `80%` de opacidade. Novamente, o intuito é proporcionar uma mesclagem mais coerente e adaptável a diferentes panos de fundo.
 
-![Exemplos de Material Transparente](~@source/assets/images/materials-transparent.png)
+![Exemplos de Material Transparente](../assets/images/materials-transparent.png)
 
 ## Acrílico
 
 Acrílico é um material semitransparente que simula o efeito de vidro fosco, através de uma camada acinzentada de alta opacidade `44%`, uma sutil repetição de textura em padrão ruído (_noise_) a apenas `2%` de opacidade e um forte filtro de embaçamento de fundo (_backdrop blur_).
 
-::: tip Dica
+::: tip Dicas
 Você pode ver o acrílico em uso, aqui mesmo na interface da documentação deste _design system_, no cabeçalho superior. Basta rolar o conteúdo e observar o sutil efeito de transparência "borrada" se formando conforme o conteúdo vai passando por trás do cabeçalho.
 :::
 
@@ -59,7 +59,7 @@ Originalmente conhecido como efeito vidro (_glass_) desde os tempos do Windows 7
 
 Por ser um efeito que chama a atenção, e por potencialmente dificultar a visualização de textos caso os elementos por trás tenham muita variação de contrastes, seu uso é recomendado com moderação, para superfícies transitórias como submenus e menus de contexto. Outro uso viável é em interfaces específicas que podem se utilizar de imagens de segundo plano, por trás do acrílico, como em telas de boas-vindas e de acesso ao sistema (_login_).
 
-![Exemplos de Material Acrílico](~@source/assets/images/materials-acrylic.png)
+![Exemplos de Material Acrílico](../assets/images/materials-acrylic.png)
 
 <span class="color-dot" style="background: #6d69d8"></span> <b>Camada acrílica:</b> Material acrílico em uso por cima de uma imagem de pano de fundo para oferecer um efeito marcante em telas específicas de um sistema.
 <br>
@@ -67,18 +67,18 @@ Por ser um efeito que chama a atenção, e por potencialmente dificultar a visua
 
 Destaca-se que o material acrílico é sensível à variação dos [Modos de Cor](./cores.md#modos-de-cor), ou seja, possui variações especificamente pensadas tanto para claro quanto para escuro.
 
-![Exemplos de Material Acrílico em Modo Escuro](~@source/assets/images/materials-acrylic-dark.png)
+![Exemplos de Material Acrílico em Modo Escuro](../assets/images/materials-acrylic-dark.png)
 
 ## Esfumaçado
 
 O esfumaçado ajuda a enfatizar uma superfície de interface do usuário extremamente importante, ao esmaecer as superfícies abaixo para que elas recedem em segundo plano, através de um preto com `40%` de opacidade e um filtro de embaçamento de fundo (_backdrop blur_), com intensidade um pouco menor do que a utilizada no material acrílico.
 
-::: tip Dica
+::: tip Dicas
 Você pode ver o esfumaçamento em uso, aqui mesmo na interface da documentação deste _design system_. Basta clicar sobre qualquer imagem para visualizá-la em foco total, e assim o restante do conteúdo ficará coberto por esfumaçamento, o qual pode ser acionado para fechar e voltar ao estado padrão da documentação.
 :::
 
 Comumente, o esfumaçado é utilizado para sinalizar bloqueio da interface, abaixo de uma caixa de diálogo modal, que não pode ser ignorada pelo usuário sem ser respondida.
 
-![Exemplos de Material Esfumaçado](~@source/assets/images/materials-smoke.png)
+![Exemplos de Material Esfumaçado](../assets/images/materials-smoke.png)
 
 O esfumaçamento não sofre interferência dos [Modos de Cor](./cores.md#modos-de-cor), isto é, sempre translúcida em preto.

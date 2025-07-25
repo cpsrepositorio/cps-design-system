@@ -2,19 +2,19 @@
 
 A iconografia é um conjunto de imagens e símbolos visuais que ajudam os usuários a entender e navegar pela aplicação. No **CPS Design System**, ícones são fortemente recomendados para utilização ao longo de toda a interface, como sendo metáforas visuais que representam um conceito, uma ação ou uma situação.
 
-::: tip Dica
-Há quem brinque (ou até diga pejorativamente de propósito) que iconografia não passa de "encher de firulas" ou de "ficar enfeitando" interfaces.
+::: tip Dicas
+Há quem fale brincando (ou até pejorativamente de propósito) que ícone é só "firula" para "enfeitar" interfaces. Ledo engano, já que criar metáforas visuais é uma das maneiras **mais eficientes** de reduzir sobrecarga cognitiva.
 
-Ledo engano, uma vez que criar metáforas visuais é uma das maneiras mais eficientes de atender ao menos duas das [10 Heurísticas de Jakob Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/): oferecer uma clara ponte entre o _software_ e o mundo real, e proporcionar rápido reconhecimento através da familiaridade.
+De quebra, duas das [10 Heurísticas de Jakob Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/) são atendidas: _"oferecer uma clara ponte entre o software e o mundo real"_ e _"proporcionar rápido reconhecimento através da familiaridade"_.
 :::
 
 Antes discutir a tipografia deste _design system_, é importante delimitar adequadamente seu escopo.
 
 ## Ícones de Aplicação
 
-Os ícones de aplicação representam uma imagem exclusiva e imediatamente reconhecível que ajuda a identificar a aplicação, em meio a outras, idealmente uma imagem que represente a identidade da aplicação, ou que remeta à sua funcionalidade principal por meio de uma metáfora. Ícones de aplicação envolvem o uso de cores de marca, efeitos visuais, sombras, dentre outras características de identificação única.
+![Exemplo de Ícone de Aplicação =320x218](../assets/images/icons-sample-application.png)
 
-![Exemplo de Ícone de Aplicação](~@source/assets/images/icons-sample-application.png)
+Os ícones de aplicação representam uma imagem exclusiva e imediatamente reconhecível que ajuda a identificar a aplicação, em meio a outras, idealmente uma imagem que represente a identidade da aplicação, ou que remeta à sua funcionalidade principal por meio de uma metáfora. Ícones de aplicação envolvem o uso de cores de marca, efeitos visuais, sombras, dentre outras características de identificação única.
 
 No contexto da _web_, também são usados principalmente para reconhecer e iniciar sua aplicação a partir de atalhos, como em uma _app drawer_ compartilhada entre vários sistemas, e também para identificar a aplicação onde quer que ele apareça no navegador, como na barra de títulos, na lista de favoritos, no histórico de navegação, etc.
 
@@ -28,9 +28,9 @@ Para todos os outros casos, incluindo cada sistema interno que aderir a este _de
 
 ## Ícones de Sistema
 
-Ícones de sistema, por sua vez, são os símbolos visuais que efetivamente ajudam usuários a navegar pela aplicação, remetendo a objetos e ações do mundo real, criando metáforas visuais e facilitando o processo cognitivo de reconhecer o significado das coisas em uma interface.
+![Exemplo de Ícone de Sistema =320x218](../assets/images/icons-sample-system.png)
 
-![Exemplo de Ícone de Sistema](~@source/assets/images/icons-sample-system.png)
+Ícones de sistema, por sua vez, são os símbolos visuais que efetivamente ajudam usuários a navegar pela aplicação, remetendo a objetos e ações do mundo real, criando metáforas visuais e facilitando o processo cognitivo de reconhecer o significado das coisas em uma interface.
 
 O **CPS Design System** segue, na iconografia, a mesma influência que norteou sua construção. Assim, recomenda-se o uso da biblioteca de ícones [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) da Microsoft, uma coleção livre sob [licença MIT](https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE), com mais de 4 mil ícones cuidadosamente construídos usando as mesmas características geométricas do restante da interface Fluent, através de três princípios estéticos:
 

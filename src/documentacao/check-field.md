@@ -20,11 +20,11 @@ Esta variação possui visual e comportamento idênticos ao elemento nativo `<in
 
 A aparência desta variação em modo claro:
 
-![CheckField - Modo Claro - Checkbox Avulso](~@source/assets/images/component-checkfield-light-checkbox.png)
+![CheckField - Modo Claro - Checkbox Avulso](../assets/images/component-checkfield-light-checkbox.png)
 
 A aparência desta variação em modo escuro:
 
-![CheckField - Modo Escuro - Checkbox Avulso](~@source/assets/images/component-checkfield-dark-checkbox.png)
+![CheckField - Modo Escuro - Checkbox Avulso](../assets/images/component-checkfield-dark-checkbox.png)
 
 ### Checkbox com Rótulo
 
@@ -32,11 +32,11 @@ Esta variação conta com um rótulo de texto informativo junto à caixa de sele
 
 A aparência desta variação em modo claro:
 
-![CheckField - Modo Claro - Checkbox com Rótulo](~@source/assets/images/component-checkfield-light-checkbox-label.png)
+![CheckField - Modo Claro - Checkbox com Rótulo](../assets/images/component-checkfield-light-checkbox-label.png)
 
 A aparência desta variação em modo escuro:
 
-![CheckField - Modo Escuro - Checkbox com Rótulo](~@source/assets/images/component-checkfield-dark-checkbox-label.png)
+![CheckField - Modo Escuro - Checkbox com Rótulo](../assets/images/component-checkfield-dark-checkbox-label.png)
 
 ### Radio Avulso
 
@@ -44,11 +44,11 @@ Esta variação possui visual e comportamento idênticos ao elemento nativo `<in
 
 A aparência desta variação em modo claro:
 
-![CheckField - Modo Claro - Radio Avulso](~@source/assets/images/component-checkfield-light-radiobutton.png)
+![CheckField - Modo Claro - Radio Avulso](../assets/images/component-checkfield-light-radiobutton.png)
 
 A aparência desta variação em modo escuro:
 
-![CheckField - Modo Escuro - Radio Avulso](~@source/assets/images/component-checkfield-dark-radiobutton.png)
+![CheckField - Modo Escuro - Radio Avulso](../assets/images/component-checkfield-dark-radiobutton.png)
 
 ### Radio com Rótulo
 
@@ -56,11 +56,11 @@ Esta variação conta com um rótulo de texto informativo junto ao botão de op�
 
 A aparência desta variação em modo claro:
 
-![CheckField - Modo Claro - Radio com Rótulo](~@source/assets/images/component-checkfield-light-radiobutton-label.png)
+![CheckField - Modo Claro - Radio com Rótulo](../assets/images/component-checkfield-light-radiobutton-label.png)
 
 A aparência desta variação em modo escuro:
 
-![CheckField - Modo Escuro - Radio com Rótulo](~@source/assets/images/component-checkfield-dark-radiobutton-label.png)
+![CheckField - Modo Escuro - Radio com Rótulo](../assets/images/component-checkfield-dark-radiobutton-label.png)
 
 ## Boas práticas
 

@@ -10,11 +10,11 @@ Este componente não exige a documentação de variações, apenas se adaptando 
 
 A aparência em modo claro:
 
-![SliderField - Modo Claro - Padrão](~@source/assets/images/component-sliderfield-light.png)
+![SliderField - Modo Claro - Padrão](../assets/images/component-sliderfield-light.png)
 
 A aparência em modo escuro:
 
-![SliderField - Modo Escuro - Padrão](~@source/assets/images/component-sliderfield-dark.png)
+![SliderField - Modo Escuro - Padrão](../assets/images/component-sliderfield-dark.png)
 
 ## Boas práticas
 

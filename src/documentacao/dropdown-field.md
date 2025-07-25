@@ -18,11 +18,11 @@ A variação padrão deste componente representa seu estado de repouso, oferecen
 
 A aparência desta variação em modo claro:
 
-![DropdownField - Modo Claro - Padrão](~@source/assets/images/component-dropdownfield-light-closed.png)
+![DropdownField - Modo Claro - Padrão](../assets/images/component-dropdownfield-light-closed.png)
 
 A aparência desta variação em modo escuro:
 
-![DropdownField - Modo Escuro - Padrão](~@source/assets/images/component-dropdownfield-dark-closed.png)
+![DropdownField - Modo Escuro - Padrão](../assets/images/component-dropdownfield-dark-closed.png)
 
 ### Aberto
 
@@ -30,11 +30,11 @@ Esta variação é acessada sempre que o componente é acionado. É importante c
 
 A aparência desta variação em modo claro:
 
-![DropdownField - Modo Claro - Aberto](~@source/assets/images/component-dropdownfield-light-open.png)
+![DropdownField - Modo Claro - Aberto](../assets/images/component-dropdownfield-light-open.png)
 
 A aparência desta variação em modo escuro:
 
-![DropdownField - Modo Escuro - Aberto](~@source/assets/images/component-dropdownfield-dark-open.png)
+![DropdownField - Modo Escuro - Aberto](../assets/images/component-dropdownfield-dark-open.png)
 
 ## Boas práticas
 

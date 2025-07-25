@@ -14,11 +14,11 @@ A variação padrão do _card_ é baseada na cor de plano de fundo mais clara do
 
 A aparência desta variação em modo claro:
 
-![Card - Modo Claro - Padrão](~@source/assets/images/component-card-light-standard.png)
+![Card - Modo Claro - Padrão](../assets/images/component-card-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![Card - Modo Escuro - Padrão](~@source/assets/images/component-card-dark-standard.png)
+![Card - Modo Escuro - Padrão](../assets/images/component-card-dark-standard.png)
 
 ### Sobre Acrílico
 
@@ -26,11 +26,11 @@ Esta variação do _card_ utiliza-se de uma opacidade levemente menor, para favo
 
 A aparência desta variação em modo claro:
 
-![Card - Modo Claro - Padrão](~@source/assets/images/component-card-light-onacrylic.png)
+![Card - Modo Claro - Padrão](../assets/images/component-card-light-onacrylic.png)
 
 A aparência desta variação em modo escuro:
 
-![Card - Modo Escuro - Padrão](~@source/assets/images/component-card-dark-onacrylic.png)
+![Card - Modo Escuro - Padrão](../assets/images/component-card-dark-onacrylic.png)
 
 ## Boas práticas
 
@@ -46,11 +46,11 @@ Cartões podem ser organizados em diferentes blocos de conteúdo, normalmente ut
 
 A aparência deste exemplo de utilização em modo claro:
 
-![Card - Modo Claro - Exemplo de Layout](~@source/assets/images/component-card-light-sample.png)
+![Card - Modo Claro - Exemplo de Layout](../assets/images/component-card-light-sample.png)
 
 A aparência deste exemplo de utilização em modo escuro:
 
-![Card - Modo Escuro - Exemplo de Layout](~@source/assets/images/component-card-dark-sample.png)
+![Card - Modo Escuro - Exemplo de Layout](../assets/images/component-card-dark-sample.png)
 
 ### Acessibilidade
 

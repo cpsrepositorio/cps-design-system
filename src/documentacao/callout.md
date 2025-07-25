@@ -20,11 +20,11 @@ A variação padrão deste componente representa seu _layout_ mínimo, represent
 
 A aparência desta variação em modo claro:
 
-![Callout - Modo Claro - Padrão](~@source/assets/images/component-callout-light-standard.png)
+![Callout - Modo Claro - Padrão](../assets/images/component-callout-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![Callout - Modo Escuro - Padrão](~@source/assets/images/component-callout-dark-standard.png)
+![Callout - Modo Escuro - Padrão](../assets/images/component-callout-dark-standard.png)
 
 ### Com botão
 
@@ -32,11 +32,11 @@ Esta variação é muito parecida visualmente com a variação padrão, porém e
 
 A aparência desta variação em modo claro:
 
-![Callout - Modo Claro - Com Botão](~@source/assets/images/component-callout-light-withbutton.png)
+![Callout - Modo Claro - Com Botão](../assets/images/component-callout-light-withbutton.png)
 
 A aparência desta variação em modo escuro:
 
-![Callout - Modo Escuro - Com Botão](~@source/assets/images/component-callout-dark-withbutton.png)
+![Callout - Modo Escuro - Com Botão](../assets/images/component-callout-dark-withbutton.png)
 
 ## Boas práticas
 

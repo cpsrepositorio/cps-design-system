@@ -16,11 +16,11 @@ A exibição em grade padrão é a variação mais recorrente em uma aplicação
 
 A aparência deste componente em modo claro:
 
-![GridView - Modo Claro - Padrão](~@source/assets/images/component-gridview-light-standard.png)
+![GridView - Modo Claro - Padrão](../assets/images/component-gridview-light-standard.png)
 
 A aparência deste componente em modo escuro:
 
-![GridView - Modo Escuro - Padrão](~@source/assets/images/component-gridview-dark-standard.png)
+![GridView - Modo Escuro - Padrão](../assets/images/component-gridview-dark-standard.png)
 
 ### Seleção Múltipla
 
@@ -28,11 +28,11 @@ Esta variação é utilizada com menos frequência, mas é relevante quando mais
 
 A aparência desta variação em modo claro:
 
-![GridView - Modo Claro - Seleção Múltipla](~@source/assets/images/component-gridview-light-multiselect.png)
+![GridView - Modo Claro - Seleção Múltipla](../assets/images/component-gridview-light-multiselect.png)
 
 A aparência desta variação em modo escuro:
 
-![GridView - Modo Escuro - Seleção Múltipla](~@source/assets/images/component-gridview-dark-multiselect.png)
+![GridView - Modo Escuro - Seleção Múltipla](../assets/images/component-gridview-dark-multiselect.png)
 
 ## Boas práticas
 

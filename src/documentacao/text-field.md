@@ -18,11 +18,11 @@ A variação padrão deste componente representa seu funcionamento mais básico,
 
 A aparência desta variação em modo claro:
 
-![TextField - Modo Claro - Padrão](~@source/assets/images/component-textfield-light-standard.png)
+![TextField - Modo Claro - Padrão](../assets/images/component-textfield-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![TextField - Modo Escuro - Padrão](~@source/assets/images/component-textfield-dark-standard.png)
+![TextField - Modo Escuro - Padrão](../assets/images/component-textfield-dark-standard.png)
 
 ### Com rótulo
 
@@ -30,11 +30,11 @@ Embora alguns contestem que o rótulo de um campo seja especificado como parte d
 
 A aparência desta variação em modo claro:
 
-![TextField - Modo Claro - Com rótulo](~@source/assets/images/component-textfield-light-label.png)
+![TextField - Modo Claro - Com rótulo](../assets/images/component-textfield-light-label.png)
 
 A aparência desta variação em modo escuro:
 
-![TextField - Modo Escuro - Com rótulo](~@source/assets/images/component-textfield-dark-label.png)
+![TextField - Modo Escuro - Com rótulo](../assets/images/component-textfield-dark-label.png)
 
 ### Limpável
 
@@ -42,11 +42,11 @@ Esta variação é o exemplo fundamental de como uma caixa de texto pode agregar
 
 A aparência desta variação em modo claro:
 
-![TextField - Modo Claro - Limpável](~@source/assets/images/component-textfield-light-clearable.png)
+![TextField - Modo Claro - Limpável](../assets/images/component-textfield-light-clearable.png)
 
 A aparência desta variação em modo escuro:
 
-![TextField - Modo Escuro - Limpável](~@source/assets/images/component-textfield-dark-clearable.png)
+![TextField - Modo Escuro - Limpável](../assets/images/component-textfield-dark-clearable.png)
 
 ## Boas práticas
 

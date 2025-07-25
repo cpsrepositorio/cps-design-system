@@ -16,11 +16,11 @@ A variação padrão deste componente representa seu estado de repouso, oferecen
 
 A aparência desta variação em modo claro:
 
-![DropdownButton - Modo Claro - Padrão](~@source/assets/images/component-dropdownbutton-light-closed.png)
+![DropdownButton - Modo Claro - Padrão](../assets/images/component-dropdownbutton-light-closed.png)
 
 A aparência desta variação em modo escuro:
 
-![DropdownButton - Modo Escuro - Padrão](~@source/assets/images/component-dropdownbutton-dark-closed.png)
+![DropdownButton - Modo Escuro - Padrão](../assets/images/component-dropdownbutton-dark-closed.png)
 
 Observa-se também que, diferente de um [DropdownField](./dropdown-field.md), este componente não exige texto sobre a opção atualmente selecionada, mas é recomendado utilizar texto junto ao ícone na maioria dos casos, para evitar possíveis desentendimentos a partir do significado do ícone sozinho.
 
@@ -30,11 +30,11 @@ Esta variação é acessada sempre que o componente é acionado. É importante c
 
 A aparência desta variação em modo claro:
 
-![DropdownButton - Modo Claro - Aberto](~@source/assets/images/component-dropdownbutton-light-open.png)
+![DropdownButton - Modo Claro - Aberto](../assets/images/component-dropdownbutton-light-open.png)
 
 A aparência desta variação em modo escuro:
 
-![DropdownButton - Modo Escuro - Aberto](~@source/assets/images/component-dropdownbutton-dark-open.png)
+![DropdownButton - Modo Escuro - Aberto](../assets/images/component-dropdownbutton-dark-open.png)
 
 ## Boas práticas
 

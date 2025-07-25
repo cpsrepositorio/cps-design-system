@@ -14,11 +14,11 @@ O campo de classificação é somente um _container_ sem visual próprio, sendo 
 
 A aparência deste componente em modo claro:
 
-![RatingField - Modo Claro - Campo de classificação](~@source/assets/images/component-ratingfield-light.png)
+![RatingField - Modo Claro - Campo de classificação](../assets/images/component-ratingfield-light.png)
 
 A aparência deste componente em modo escuro:
 
-![RatingField - Modo Escuro - Campo de classificação](~@source/assets/images/component-ratingfield-dark.png)
+![RatingField - Modo Escuro - Campo de classificação](../assets/images/component-ratingfield-dark.png)
 
 ### Estrela de classificação
 
@@ -26,11 +26,11 @@ Cada nota dentro de um campo de classificação é um ícone de estrela de class
 
 A aparência deste componente em modo claro:
 
-![RatingField - Modo Claro - Estrela de classificação](~@source/assets/images/component-ratingfield-light-item.png)
+![RatingField - Modo Claro - Estrela de classificação](../assets/images/component-ratingfield-light-item.png)
 
 A aparência deste componente em modo escuro:
 
-![RatingField - Modo Escuro - Estrela de classificação](~@source/assets/images/component-ratingfield-dark-item.png)
+![RatingField - Modo Escuro - Estrela de classificação](../assets/images/component-ratingfield-dark-item.png)
 
 ## Boas práticas
 

@@ -14,11 +14,11 @@ O _stepper_ padrão é a variação mais recorrente em uma aplicação, utilizad
 
 A aparência desta variação em modo claro:
 
-![Stepper - Modo Claro - Padrão](~@source/assets/images/component-stepper-light-standard.png)
+![Stepper - Modo Claro - Padrão](../assets/images/component-stepper-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![Stepper - Modo Escuro - Padrão](~@source/assets/images/component-stepper-dark-standard.png)
+![Stepper - Modo Escuro - Padrão](../assets/images/component-stepper-dark-standard.png)
 
 ### Selecionável
 
@@ -26,11 +26,11 @@ A variação selecionável apresenta a diferença fundamental de que cada um dos
 
 A aparência desta variação em modo claro:
 
-![Stepper - Modo Claro - Selecionável](~@source/assets/images/component-stepper-light-selectable.png)
+![Stepper - Modo Claro - Selecionável](../assets/images/component-stepper-light-selectable.png)
 
 A aparência desta variação em modo escuro:
 
-![Stepper - Modo Escuro - Selecionável](~@source/assets/images/component-stepper-dark-selectable.png)
+![Stepper - Modo Escuro - Selecionável](../assets/images/component-stepper-dark-selectable.png)
 
 ## Boas práticas
 

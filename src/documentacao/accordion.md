@@ -16,11 +16,11 @@ Quando contraído, o bloco de conteúdos referente àquele cabeçalho de _accord
 
 A aparência desta variação em modo claro, com seus diferentes estados:
 
-![Accordion - Modo Claro - Contraído](~@source/assets/images/component-accordion-light-collapsed.png)
+![Accordion - Modo Claro - Contraído](../assets/images/component-accordion-light-collapsed.png)
 
 A aparência desta variação em modo escuro, com seus diferentes estados:
 
-![Accordion - Modo Escuro - Contraído](~@source/assets/images/component-accordion-dark-collapsed.png)
+![Accordion - Modo Escuro - Contraído](../assets/images/component-accordion-dark-collapsed.png)
 
 ### Expandido
 
@@ -28,11 +28,11 @@ Quando expandido, o bloco de conteúdos referente àquele cabeçalho de _accordi
 
 A aparência desta variação em modo claro, com seus diferentes estados:
 
-![Accordion - Modo Claro - Expandido](~@source/assets/images/component-accordion-light-expanded.png)
+![Accordion - Modo Claro - Expandido](../assets/images/component-accordion-light-expanded.png)
 
 A aparência desta variação em modo escuro, com seus diferentes estados:
 
-![Accordion - Modo Escuro - Expandido](~@source/assets/images/component-accordion-dark-expanded.png)
+![Accordion - Modo Escuro - Expandido](../assets/images/component-accordion-dark-expanded.png)
 
 #### Exemplo com conteúdo
 
@@ -40,11 +40,11 @@ Conforme citado, cabeçalhos de _accordion_ podem ser posicionados em grupo. Al�
 
 Exemplo em modo claro:
 
-![Accordion - Modo Claro - Exemplo com conteúdo](~@source/assets/images/component-accordion-light-sample-content.png)
+![Accordion - Modo Claro - Exemplo com conteúdo](../assets/images/component-accordion-light-sample-content.png)
 
 Exemplo em modo escuro:
 
-![Accordion - Modo Escuro - Exemplo com conteúdo](~@source/assets/images/component-accordion-dark-sample-content.png)
+![Accordion - Modo Escuro - Exemplo com conteúdo](../assets/images/component-accordion-dark-sample-content.png)
 ## Boas práticas
 
 Para que este componente seja utilizado da melhor maneira possível, observe as práticas a seguir.

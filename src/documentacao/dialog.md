@@ -14,11 +14,11 @@ A caixa de diálogo padrão é a variação mais comum, frequentemente utilizada
 
 A aparência desta variação em modo claro:
 
-![Dialog - Modo Claro - Padrão](~@source/assets/images/component-dialog-light-standard.png)
+![Dialog - Modo Claro - Padrão](../assets/images/component-dialog-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![Dialog - Modo Escuro - Padrão](~@source/assets/images/component-dialog-dark-standard.png)
+![Dialog - Modo Escuro - Padrão](../assets/images/component-dialog-dark-standard.png)
 
 ### Conteúdo Extra
 
@@ -26,11 +26,11 @@ Eventualmente, caixas de diálogo podem ser expandidas horizontalmente e vertica
 
 A aparência desta variação em modo claro:
 
-![Dialog - Modo Claro - Conteúdo Extra](~@source/assets/images/component-dialog-light-extracontent.png)
+![Dialog - Modo Claro - Conteúdo Extra](../assets/images/component-dialog-light-extracontent.png)
 
 A aparência desta variação em modo escuro:
 
-![Dialog - Modo Escuro - Conteúdo Extra](~@source/assets/images/component-dialog-dark-extracontent.png)
+![Dialog - Modo Escuro - Conteúdo Extra](../assets/images/component-dialog-dark-extracontent.png)
 
 ### Modal
 
@@ -38,11 +38,11 @@ Em alguns casos extremos, não existe qualquer escolha por parte do usuário, ma
 
 A aparência desta variação em modo claro:
 
-![Dialog - Modo Claro - Modal](~@source/assets/images/component-dialog-light-modal.png)
+![Dialog - Modo Claro - Modal](../assets/images/component-dialog-light-modal.png)
 
 A aparência desta variação em modo escuro:
 
-![Dialog - Modo Escuro - Modal](~@source/assets/images/component-dialog-dark-modal.png)
+![Dialog - Modo Escuro - Modal](../assets/images/component-dialog-dark-modal.png)
 
 ## Boas práticas
 

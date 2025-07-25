@@ -18,11 +18,11 @@ A variação padrão deste componente representa seu estado de repouso, oferecen
 
 A aparência desta variação em modo claro:
 
-![MultiSelectField - Modo Claro - Padrão](~@source/assets/images/component-multiselectfield-light-closed.png)
+![MultiSelectField - Modo Claro - Padrão](../assets/images/component-multiselectfield-light-closed.png)
 
 A aparência desta variação em modo escuro:
 
-![MultiSelectField - Modo Escuro - Padrão](~@source/assets/images/component-multiselectfield-dark-closed.png)
+![MultiSelectField - Modo Escuro - Padrão](../assets/images/component-multiselectfield-dark-closed.png)
 
 ### Aberto
 
@@ -30,11 +30,11 @@ Esta variação é acessada sempre que o componente é acionado, apresentando um
 
 A aparência desta variação em modo claro:
 
-![MultiSelectField - Modo Claro - Aberto](~@source/assets/images/component-multiselectfield-light-open.png)
+![MultiSelectField - Modo Claro - Aberto](../assets/images/component-multiselectfield-light-open.png)
 
 A aparência desta variação em modo escuro:
 
-![MultiSelectField - Modo Escuro - Aberto](~@source/assets/images/component-multiselectfield-dark-open.png)
+![MultiSelectField - Modo Escuro - Aberto](../assets/images/component-multiselectfield-dark-open.png)
 
 ## Boas práticas
 
@@ -49,7 +49,7 @@ Use um campo de seleção múltipla quando uma das situações a seguir for vál
 
 Dado o espaço horizontal disponível para exibir o campo de seleção múltipla, pode não ser possível exibir os _chips_ de todos os itens atualmente selecionados. Neste caso, recomenda-se utilizar reticências após o último item que cabe na visualização, como um sutil indicativo de que há mais itens selecionados. Observe este breve exemplo:
 
-![MultiSelectField - Exemplo - Múltiplos Chips](~@source/assets/images/component-multiselectfield-light-many-chips.png)
+![MultiSelectField - Exemplo - Múltiplos Chips](../assets/images/component-multiselectfield-light-many-chips.png)
 
 Sempre que possível (ou seja, quando não houverem diferentes grupos de informação organizados através de separadores), recomenda-se que a lista de itens tenha opções ordenadas alfabeticamente/incrementalmente/cronologicamente, para facilitar a rápida localização por parte do usuário. Isto vale tanto para os itens em repouso quanto os itens dentro do menu flutuante.
 

@@ -16,11 +16,11 @@ A exibição em lista padrão é a variação mais recorrente em uma aplicação
 
 A aparência deste componente em modo claro:
 
-![ListView - Modo Claro - Padrão](~@source/assets/images/component-listview-light-standard.png)
+![ListView - Modo Claro - Padrão](../assets/images/component-listview-light-standard.png)
 
 A aparência deste componente em modo escuro:
 
-![ListView - Modo Escuro - Padrão](~@source/assets/images/component-listview-dark-standard.png)
+![ListView - Modo Escuro - Padrão](../assets/images/component-listview-dark-standard.png)
 
 ### Seleção Múltipla
 
@@ -28,11 +28,11 @@ Esta variação é utilizada com menos frequência, mas é relevante quando mais
 
 A aparência desta variação em modo claro:
 
-![ListView - Modo Claro - Seleção Múltipla](~@source/assets/images/component-listview-light-multiselect.png)
+![ListView - Modo Claro - Seleção Múltipla](../assets/images/component-listview-light-multiselect.png)
 
 A aparência desta variação em modo escuro:
 
-![ListView - Modo Escuro - Seleção Múltipla](~@source/assets/images/component-listview-dark-multiselect.png)
+![ListView - Modo Escuro - Seleção Múltipla](../assets/images/component-listview-dark-multiselect.png)
 
 ### Item de Lista
 
@@ -40,11 +40,11 @@ Não necessariamente uma variação, mas sim um complemento às variações prev
 
 A aparência deste componente em modo claro:
 
-![ListView - Modo Claro - Item de lista](~@source/assets/images/component-listview-light-item.png)
+![ListView - Modo Claro - Item de lista](../assets/images/component-listview-light-item.png)
 
 A aparência deste componente em modo escuro:
 
-![ListView - Modo Escuro - Item de lista](~@source/assets/images/component-listview-dark-item.png)
+![ListView - Modo Escuro - Item de lista](../assets/images/component-listview-dark-item.png)
 
 ## Boas práticas
 

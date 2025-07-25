@@ -14,11 +14,11 @@ A variação padrão deste componente é recomenda para apresentação tabular d
 
 A aparência desta variação em modo claro:
 
-![DataTable - Modo Claro - Padrão](~@source/assets/images/component-datatable-light-static.png)
+![DataTable - Modo Claro - Padrão](../assets/images/component-datatable-light-static.png)
 
 A aparência desta variação em modo escuro:
 
-![DataTable - Modo Escuro - Padrão](~@source/assets/images/component-datatable-dark-static.png)
+![DataTable - Modo Escuro - Padrão](../assets/images/component-datatable-dark-static.png)
 
 ### Seleção Simples
 
@@ -26,11 +26,11 @@ Esta variação é similar à variação padrão em relação ao comportamento d
 
 A aparência desta variação em modo claro:
 
-![DataTable - Modo Claro - Seleção Simples](~@source/assets/images/component-datatable-light-single.png)
+![DataTable - Modo Claro - Seleção Simples](../assets/images/component-datatable-light-single.png)
 
 A aparência desta variação em modo escuro:
 
-![DataTable - Modo Escuro - Seleção Simples](~@source/assets/images/component-datatable-dark-single.png)
+![DataTable - Modo Escuro - Seleção Simples](../assets/images/component-datatable-dark-single.png)
 
 ### Seleção Múltipla
 
@@ -38,11 +38,11 @@ Esta variação é similar à variação com seleção simples, porém como o no
 
 A aparência desta variação em modo claro:
 
-![DataTable - Modo Claro - Seleção Múltipla](~@source/assets/images/component-datatable-light-multiple.png)
+![DataTable - Modo Claro - Seleção Múltipla](../assets/images/component-datatable-light-multiple.png)
 
 A aparência desta variação em modo escuro:
 
-![DataTable - Modo Escuro - Seleção Múltipla](~@source/assets/images/component-datatable-dark-multiple.png)
+![DataTable - Modo Escuro - Seleção Múltipla](../assets/images/component-datatable-dark-multiple.png)
 
 ## Boas práticas
 

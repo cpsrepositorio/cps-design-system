@@ -10,11 +10,11 @@ Este componente não possui variações, apenas se adaptando ao modo de cor em u
 
 A aparência deste componente em modo claro:
 
-![Pagination - Modo Claro](~@source/assets/images/component-pagination-light-standard.png)
+![Pagination - Modo Claro](../assets/images/component-pagination-light-standard.png)
 
 A aparência deste componente em modo escuro:
 
-![Pagination - Modo Escuro](~@source/assets/images/component-pagination-dark-standard.png)
+![Pagination - Modo Escuro](../assets/images/component-pagination-dark-standard.png)
 
 ## Boas práticas
 

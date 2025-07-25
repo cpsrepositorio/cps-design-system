@@ -18,11 +18,11 @@ A variação padrão deste componente representa seu estado de repouso, oferecen
 
 A aparência desta variação em modo claro:
 
-![ColorField - Modo Claro - Padrão](~@source/assets/images/component-colorfield-light-closed.png)
+![ColorField - Modo Claro - Padrão](../assets/images/component-colorfield-light-closed.png)
 
 A aparência desta variação em modo escuro:
 
-![ColorField - Modo Escuro - Padrão](~@source/assets/images/component-colorfield-dark-closed.png)
+![ColorField - Modo Escuro - Padrão](../assets/images/component-colorfield-dark-closed.png)
 
 ### Aberto
 
@@ -30,11 +30,11 @@ Esta variação é acessada sempre que o componente é acionado. É importante c
 
 A aparência desta variação em modo claro:
 
-![ColorField - Modo Claro - Aberto](~@source/assets/images/component-colorfield-light-open.png)
+![ColorField - Modo Claro - Aberto](../assets/images/component-colorfield-light-open.png)
 
 A aparência desta variação em modo escuro:
 
-![ColorField - Modo Escuro - Aberto](~@source/assets/images/component-colorfield-dark-open.png)
+![ColorField - Modo Escuro - Aberto](../assets/images/component-colorfield-dark-open.png)
 
 ## Boas práticas
 

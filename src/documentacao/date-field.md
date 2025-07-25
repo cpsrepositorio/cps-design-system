@@ -18,11 +18,11 @@ A variação padrão deste componente representa seu estado de repouso, oferecen
 
 A aparência desta variação em modo claro:
 
-![DateField - Modo Claro - Padrão](~@source/assets/images/component-datefield-light-standard.png)
+![DateField - Modo Claro - Padrão](../assets/images/component-datefield-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![DateField - Modo Escuro - Padrão](~@source/assets/images/component-datefield-dark-standard.png)
+![DateField - Modo Escuro - Padrão](../assets/images/component-datefield-dark-standard.png)
 
 ### Aberto
 
@@ -30,11 +30,11 @@ Esta variação é acessada sempre que o componente é acionado. É importante c
 
 A aparência desta variação em modo claro:
 
-![DateField - Modo Claro - Aberto](~@source/assets/images/component-datefield-light-open.png)
+![DateField - Modo Claro - Aberto](../assets/images/component-datefield-light-open.png)
 
 A aparência desta variação em modo escuro:
 
-![DateField - Modo Escuro - Aberto](~@source/assets/images/component-datefield-dark-open.png)
+![DateField - Modo Escuro - Aberto](../assets/images/component-datefield-dark-open.png)
 
 ## Boas práticas
 

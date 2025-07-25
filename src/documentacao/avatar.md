@@ -14,19 +14,19 @@ Este componente pode ser utilizado conforme as variações descritas a seguir.
 
 Quando há uma imagem referente à pessoa em questão, normalmente uma imagem de perfil previamente enviada pelo próprio usuário representado pela instância de avatar em questão. É impreterível que a imagem seja posicionada de forma a preencher proporcionalmente toda a área do avatar, para que a proporção de `1:1` seja mantida, utilizando-se técnicas como `background-size: cover` no CSS.
 
-![Avatar - Com imagem](~@source/assets/images/component-avatar-image.png)
+![Avatar - Com imagem](../assets/images/component-avatar-image.png)
 
 ### Com iniciais
 
 Quando não é imagem para exibir no avatar, deve-se utilizar o nome completo do indivíduo para inferir as iniciais em maiúsculas a partir da primeira palavra (comumente primeiro nome) e da última palavra (comumente o sobrenome) deste nome. Caso apenas uma palavra tenha sido fornecida como nome, apenas uma inicial será exibida.
 
-![Avatar - Com inicias](~@source/assets/images/component-avatar-initials.png)
+![Avatar - Com inicias](../assets/images/component-avatar-initials.png)
 
 ### Com ícone padrão
 
 Caso não seja possível inferir iniciais, seja pela ausência de nome ou pela existência de caracteres não alfabéticos no nome, utiliza-se o ícone padrão de usuário como nome.
 
-![Avatar - Com ícone padrão](~@source/assets/images/component-avatar-icon.png)
+![Avatar - Com ícone padrão](../assets/images/component-avatar-icon.png)
 
 ## Boas práticas
 
@@ -48,12 +48,7 @@ Use avatar de `72px` a `100px` como imagem central de cartões de perfil e simil
 
 Quando não há uma imagem de perfil definida, o avatar não deve ter uma cor de fundo estática, pois isto dificultaria identificar rapidamente pessoas diferentes. Para isso, recomenda-se que os avatares baseados em inicias sigam alguma lógica de geração de cores a partir do nome, como neste exemplo:
 
-<p class="codepen" data-height="430" data-theme-id="dark" data-default-tab="result" data-slug-hash="VwyWMOE" data-user="ErickPetru" style="height: 430px">
-  <span>Veja o Exemplo <a href="https://codepen.io/ErickPetru/pen/VwyWMOE">
-  Gerador de Avatares Coloridos</a> por Erick Eduardo Petrucelli (<a href="https://codepen.io/ErickPetru">@ErickPetru</a>)
-  no <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<AvatarGenerator />
 
 ### Acessibilidade
 

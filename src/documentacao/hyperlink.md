@@ -8,9 +8,9 @@ Os famosos _hyperlinks_, eventualmente também conhecidos em português como ân
 
 Este componente não possui variações, apenas se adaptando ao modo de cor em uso.
 
-![Hyperlink - Modos Claro e Escuro](~@source/assets/images/component-hyperlink.png)
+![Hyperlink - Modos Claro e Escuro](../assets/images/component-hyperlink.png)
 
-::: tip Dica
+::: tip Dicas
 Neste _design system_, as âncoras que apontam para endereços externos possuem sim uma variação, pois apresentam um ícone de seta denotando que um conteúdo externo será aberto. Caso não tenha percebido até agora, observe esta âncora apontando para o _website_ do [CPS](https://www.cps.sp.gov.br/). Embora seja um comportamento válido e útil aqui, não é esperado que seja necessário em sistemas internos.
 :::
 

@@ -16,11 +16,11 @@ Um distintivo neutro não carrega significado especial e pode ser utilizado em d
 
 A aparência desta variação em modo claro:
 
-![Badge - Modo Claro - Neutro](~@source/assets/images/component-badge-light-neutral.png)
+![Badge - Modo Claro - Neutro](../assets/images/component-badge-light-neutral.png)
 
 A aparência desta variação em modo escuro:
 
-![Badge - Modo Escuro - Neutro](~@source/assets/images/component-badge-dark-neutral.png)
+![Badge - Modo Escuro - Neutro](../assets/images/component-badge-dark-neutral.png)
 
 ### Informativo
 
@@ -28,11 +28,11 @@ Um distintivo informativo é próximo ao neutro, mas como chama um pouco de aten
 
 A aparência desta variação em modo claro:
 
-![Badge - Modo Claro - Informativo](~@source/assets/images/component-badge-light-information.png)
+![Badge - Modo Claro - Informativo](../assets/images/component-badge-light-information.png)
 
 A aparência desta variação em modo escuro:
 
-![Badge - Modo Escuro - Informativo](~@source/assets/images/component-badge-dark-information.png)
+![Badge - Modo Escuro - Informativo](../assets/images/component-badge-dark-information.png)
 
 ### Alerta
 
@@ -40,11 +40,11 @@ Um distintivo de alerta deve ser utilizado quando as informações à qual está
 
 A aparência desta variação em modo claro:
 
-![Badge - Modo Claro - Alerta](~@source/assets/images/component-badge-light-warning.png)
+![Badge - Modo Claro - Alerta](../assets/images/component-badge-light-warning.png)
 
 A aparência desta variação em modo escuro:
 
-![Badge - Modo Escuro - Alerta](~@source/assets/images/component-badge-dark-warning.png)
+![Badge - Modo Escuro - Alerta](../assets/images/component-badge-dark-warning.png)
 
 ### Crítico
 
@@ -52,11 +52,11 @@ Um distintivo crítico chama a maior atenção possível do usuário e está ine
 
 A aparência desta variação em modo claro:
 
-![Badge - Modo Claro - Crítico](~@source/assets/images/component-badge-light-critical.png)
+![Badge - Modo Claro - Crítico](../assets/images/component-badge-light-critical.png)
 
 A aparência desta variação em modo escuro:
 
-![Badge - Modo Escuro - Crítico](~@source/assets/images/component-badge-dark-critical.png)
+![Badge - Modo Escuro - Crítico](../assets/images/component-badge-dark-critical.png)
 
 ### Sucesso
 
@@ -64,11 +64,11 @@ O extremo oposto de um distintivo crítico é sua variação de sucesso, a qual 
 
 A aparência desta variação em modo claro:
 
-![Badge - Modo Claro - Sucesso](~@source/assets/images/component-badge-light-success.png)
+![Badge - Modo Claro - Sucesso](../assets/images/component-badge-light-success.png)
 
 A aparência desta variação em modo escuro:
 
-![Badge - Modo Escuro - Sucesso](~@source/assets/images/component-badge-dark-success.png)
+![Badge - Modo Escuro - Sucesso](../assets/images/component-badge-dark-success.png)
 
 ## Boas práticas
 

@@ -16,11 +16,11 @@ A variação em linha é relevante para denotar linhas de texto que potencialmen
 
 A aparência desta variação em modo claro:
 
-![SkeletonIndicator - Modo Claro - Linha](~@source/assets/images/component-skeletonindicator-light-line.png)
+![SkeletonIndicator - Modo Claro - Linha](../assets/images/component-skeletonindicator-light-line.png)
 
 A aparência desta variação em modo escuro:
 
-![SkeletonIndicator - Modo Escuro - Linha](~@source/assets/images/component-skeletonindicator-dark-line.png)
+![SkeletonIndicator - Modo Escuro - Linha](../assets/images/component-skeletonindicator-dark-line.png)
 
 ### Caixa
 
@@ -28,11 +28,11 @@ A variação em caixa é a mais versátil, podendo assumir diferentes tamanhos h
 
 A aparência desta variação em modo claro:
 
-![SkeletonIndicator - Modo Claro - Caixa](~@source/assets/images/component-skeletonindicator-light-box.png)
+![SkeletonIndicator - Modo Claro - Caixa](../assets/images/component-skeletonindicator-light-box.png)
 
 A aparência desta variação em modo escuro:
 
-![SkeletonIndicator - Modo Escuro - Caixa](~@source/assets/images/component-skeletonindicator-dark-box.png)
+![SkeletonIndicator - Modo Escuro - Caixa](../assets/images/component-skeletonindicator-dark-box.png)
 
 ### Círculo
 
@@ -40,11 +40,11 @@ A variação em círculo possui utilização mais limitada, geral restringindo-s
 
 A aparência desta variação em modo claro:
 
-![SkeletonIndicator - Modo Claro - Círculo](~@source/assets/images/component-skeletonindicator-light-circle.png)
+![SkeletonIndicator - Modo Claro - Círculo](../assets/images/component-skeletonindicator-light-circle.png)
 
 A aparência desta variação em modo escuro:
 
-![SkeletonIndicator - Modo Escuro - Círculo](~@source/assets/images/component-skeletonindicator-dark-circle.png)
+![SkeletonIndicator - Modo Escuro - Círculo](../assets/images/component-skeletonindicator-dark-circle.png)
 
 ## Boas práticas
 

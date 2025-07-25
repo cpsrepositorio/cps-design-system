@@ -16,11 +16,11 @@ A variação padrão deste componente representa seu _layout_ mínimo, composto 
 
 A aparência desta variação em modo claro:
 
-![FloatingPanel - Modo Claro - Padrão](~@source/assets/images/component-floatingpanel-light-standard.png)
+![FloatingPanel - Modo Claro - Padrão](../assets/images/component-floatingpanel-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![FloatingPanel - Modo Escuro - Padrão](~@source/assets/images/component-floatingpanel-dark-standard.png)
+![FloatingPanel - Modo Escuro - Padrão](../assets/images/component-floatingpanel-dark-standard.png)
 
 ### Com botões
 
@@ -28,11 +28,11 @@ Esta variação é uma extensão natural da padrão, apenas acrescida de uma bar
 
 A aparência desta variação em modo claro:
 
-![FloatingPanel - Modo Claro - Com botões](~@source/assets/images/component-floatingpanel-light-withbuttons.png)
+![FloatingPanel - Modo Claro - Com botões](../assets/images/component-floatingpanel-light-withbuttons.png)
 
 A aparência desta variação em modo escuro:
 
-![FloatingPanel - Modo Escuro - Com botões](~@source/assets/images/component-floatingpanel-dark-withbuttons.png)
+![FloatingPanel - Modo Escuro - Com botões](../assets/images/component-floatingpanel-dark-withbuttons.png)
 
 ## Boas práticas
 

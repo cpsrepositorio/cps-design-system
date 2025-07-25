@@ -12,11 +12,11 @@ Este componente não exige a documentação de variações, apenas se adaptando 
 
 A aparência em modo claro:
 
-![ToggleButton - Modo Claro - Padrão](~@source/assets/images/component-togglebutton-light-standard.png)
+![ToggleButton - Modo Claro - Padrão](../assets/images/component-togglebutton-light-standard.png)
 
 A aparência em modo escuro:
 
-![ToggleButton - Modo Escuro - Padrão](~@source/assets/images/component-togglebutton-dark-standard.png)
+![ToggleButton - Modo Escuro - Padrão](../assets/images/component-togglebutton-dark-standard.png)
 
 ## Boas práticas
 

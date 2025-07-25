@@ -14,11 +14,11 @@ O botão padrão é a variação mais recorrente em uma aplicação, devendo ser
 
 A aparência desta variação em modo claro:
 
-![Button - Modo Claro - Padrão](~@source/assets/images/component-button-light-standard.png)
+![Button - Modo Claro - Padrão](../assets/images/component-button-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![Button - Modo Escuro - Padrão](~@source/assets/images/component-button-dark-standard.png)
+![Button - Modo Escuro - Padrão](../assets/images/component-button-dark-standard.png)
 
 ### Texto e ícone
 
@@ -26,11 +26,11 @@ Há situações em que uma interface cheia de botões textuais pode se tornar de
 
 A aparência desta variação em modo claro:
 
-![Button - Modo Claro - Texto e ícone](~@source/assets/images/component-button-light-texticon.png)
+![Button - Modo Claro - Texto e ícone](../assets/images/component-button-light-texticon.png)
 
 A aparência desta variação em modo escuro:
 
-![Button - Modo Escuro - Texto e ícone](~@source/assets/images/component-button-dark-texticon.png)
+![Button - Modo Escuro - Texto e ícone](../assets/images/component-button-dark-texticon.png)
 
 ### Ícone
 
@@ -38,11 +38,11 @@ Existem operações que simplesmente não precisam de grandes explicações, nor
 
 A aparência desta variação em modo claro:
 
-![Button - Modo Claro - Ícone](~@source/assets/images/component-button-light-icon.png)
+![Button - Modo Claro - Ícone](../assets/images/component-button-light-icon.png)
 
 A aparência desta variação em modo escuro:
 
-![Button - Modo Escuro - Ícone](~@source/assets/images/component-button-dark-icon.png)
+![Button - Modo Escuro - Ícone](../assets/images/component-button-dark-icon.png)
 
 ### Ênfase
 
@@ -50,11 +50,11 @@ O botão de ênfase utiliza cores da paleta de [Cor de Ênfase](../guia-visual/c
 
 A aparência desta variação em modo claro:
 
-![Button - Modo Claro - Ênfase](~@source/assets/images/component-button-light-accent.png)
+![Button - Modo Claro - Ênfase](../assets/images/component-button-light-accent.png)
 
 A aparência desta variação em modo escuro:
 
-![Button - Modo Escuro - Ênfase](~@source/assets/images/component-button-dark-accent.png)
+![Button - Modo Escuro - Ênfase](../assets/images/component-button-dark-accent.png)
 
 ## Boas práticas
 

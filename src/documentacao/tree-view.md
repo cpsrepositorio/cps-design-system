@@ -16,11 +16,11 @@ A exibição em árvore padrão é a variação mais recorrente em uma aplicaç�
 
 A aparência deste componente em modo claro:
 
-![TreeView - Modo Claro - Padrão](~@source/assets/images/component-treeview-light-standard.png)
+![TreeView - Modo Claro - Padrão](../assets/images/component-treeview-light-standard.png)
 
 A aparência deste componente em modo escuro:
 
-![TreeView - Modo Escuro - Padrão](~@source/assets/images/component-treeview-dark-standard.png)
+![TreeView - Modo Escuro - Padrão](../assets/images/component-treeview-dark-standard.png)
 
 ### Seleção Múltipla
 
@@ -28,11 +28,11 @@ Esta variação é utilizada com menos frequência, mas é relevante quando mais
 
 A aparência desta variação em modo claro:
 
-![TreeView - Modo Claro - Seleção Múltipla](~@source/assets/images/component-treeview-light-multiselect.png)
+![TreeView - Modo Claro - Seleção Múltipla](../assets/images/component-treeview-light-multiselect.png)
 
 A aparência desta variação em modo escuro:
 
-![TreeView - Modo Escuro - Seleção Múltipla](~@source/assets/images/component-treeview-dark-multiselect.png)
+![TreeView - Modo Escuro - Seleção Múltipla](../assets/images/component-treeview-dark-multiselect.png)
 
 ### Item de Lista
 

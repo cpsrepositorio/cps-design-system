@@ -16,11 +16,11 @@ A variação padrão deste componente apresenta sua composição mínima em um c
 
 A aparência desta variação em modo claro:
 
-![TopNavigation - Modo Claro - Padrão](~@source/assets/images/component-topnavigation-light-standard.png)
+![TopNavigation - Modo Claro - Padrão](../assets/images/component-topnavigation-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![TopNavigation - Modo Escuro - Padrão](~@source/assets/images/component-topnavigation-dark-standard.png)
+![TopNavigation - Modo Escuro - Padrão](../assets/images/component-topnavigation-dark-standard.png)
 
 ### Menu Superior
 
@@ -28,11 +28,11 @@ A variação com menu superior mantém as mesmas características já abordadas 
 
 A aparência desta variação em modo claro:
 
-![TopNavigation - Modo Claro - Menu Superior](~@source/assets/images/component-topnavigation-light-topmenu.png)
+![TopNavigation - Modo Claro - Menu Superior](../assets/images/component-topnavigation-light-topmenu.png)
 
 A aparência desta variação em modo escuro:
 
-![TopNavigation - Modo Escuro - Menu Superior](~@source/assets/images/component-topnavigation-dark-topmenu.png)
+![TopNavigation - Modo Escuro - Menu Superior](../assets/images/component-topnavigation-dark-topmenu.png)
 
 ## Boas práticas
 
@@ -54,7 +54,7 @@ Itens de menu devem ser grafados em notação _Sentence case_, conforme explanad
 
 Em resolução maiores, principalmente a partir de `1024px` de largura (medida convencionalmente considerada o ponto de partida para _desktops_), é natural que o maior espaço horizontal possa ser aproveitado de forma diferenciada pelas interfaces. Desta forma, é recomendável que a variação com menu superior não seja utilizada em resoluções maiores. Ao invés disso, alterna-se para a variação padrão e complementa-se o _layout_ com a exibição do componente [SideNavigation](./side-navigation.md) para oferecer as mesmas opções de navegação, porém dispostas na lateral esquerda da página ao invés de fazerem parte da área de navegação superior. Observe um exemplo animado desta alternância responsiva:
 
-![TopNavigation - Exemplo - Alternância Responsiva para SideNavigation](~@source/assets/images/component-topnavigation-responsive-sample.gif)
+![TopNavigation - Exemplo - Alternância Responsiva para SideNavigation](../assets/images/component-topnavigation-responsive-sample.gif)
 
 ### Acessibilidade
 

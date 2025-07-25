@@ -16,11 +16,11 @@ A variação padrão deste componente representa seu _layout_ mínimo, uma simpl
 
 A aparência desta variação em modo claro:
 
-![Separator - Modo Claro - Padrão](~@source/assets/images/component-separator-light-standard.png)
+![Separator - Modo Claro - Padrão](../assets/images/component-separator-light-standard.png)
 
 A aparência desta variação em modo escuro:
 
-![Separator - Modo Escuro - Padrão](~@source/assets/images/component-separator-dark-standard.png)
+![Separator - Modo Escuro - Padrão](../assets/images/component-separator-dark-standard.png)
 
 ### Com texto
 
@@ -28,11 +28,11 @@ Esta variação se oferece um texto terciário centralizado horizontalmente e ve
 
 A aparência desta variação em modo claro:
 
-![Separator - Modo Claro - Com texto](~@source/assets/images/component-separator-light-text.png)
+![Separator - Modo Claro - Com texto](../assets/images/component-separator-light-text.png)
 
 A aparência desta variação em modo escuro:
 
-![Separator - Modo Escuro - Com texto](~@source/assets/images/component-separator-dark-text.png)
+![Separator - Modo Escuro - Com texto](../assets/images/component-separator-dark-text.png)
 
 ### Com ícone
 
@@ -40,11 +40,11 @@ Uma alternativa à variação com texto, esta variação se utiliza de ícone pa
 
 A aparência desta variação em modo claro:
 
-![Separator - Modo Claro - Com ícone](~@source/assets/images/component-separator-light-icon.png)
+![Separator - Modo Claro - Com ícone](../assets/images/component-separator-light-icon.png)
 
 A aparência desta variação em modo escuro:
 
-![Separator - Modo Escuro - Com ícone](~@source/assets/images/component-separator-dark-icon.png)
+![Separator - Modo Escuro - Com ícone](../assets/images/component-separator-dark-icon.png)
 
 ## Boas práticas
 
