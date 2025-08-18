@@ -2,6 +2,8 @@
 
 Um calendário é um componente certamente auto-explicativo, assemelhando-se bastante à sua contraparte do mundo físico (principalmente em sua variação diária). Uma visualização de calendário permite que um usuário visualize e interaja com um dias, meses e ano, potencialmente podendo navegar por mês, ano ou década. Apesar das possibilidades de interação, também é válido como um componente estático para apresentação visual de uma data na interface.
 
+<LinkToCpsElements name="calendar" />
+
 ## Variações
 
 Este componente pode ser utilizado conforme as variações descritas a seguir.
